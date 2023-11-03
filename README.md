@@ -1,7 +1,6 @@
 # clubfittbuddy
-
-
-Download the workout card samples to try out [ClubFitt Buddy](http://clubfitt-web-app.s3-website-ap-southeast-1.amazonaws.com/) workout recommendation system.
+Download the workout card samples to try out [ClubFitt Buddy](http://clubfitt-web-app.s3-website-ap-southeast-1.amazonaws.com/) workout recommendation system. 
+*Tap on `View code` to see list of workout card samples if you are on mobile*
 
 ## Please note:
 1. Currently there are no user registration for the demo site, so users are mainly 'Richard' and 'Jonathan'.
