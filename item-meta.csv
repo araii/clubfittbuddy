@@ -1,0 +1,2651 @@
+ITEM_ID,GENRE,EXERCISE_NAME
+1,UpperBody,incline dumbbell press
+2,UpperBody,incline cable crossovers
+3,UpperBody,incline dumbbell flyes
+4,UpperBody,decline dumbbell press
+5,UpperBody,decline cable crossovers
+6,UpperBody,decline dumbbell flyes
+7,UpperBody,chest flyes
+8,UpperBody,cable crossovers
+9,UpperBody,dumbbell flyes
+10,Core-Back,pull-ups
+11,Core-Back,barbell rows
+12,Core-Back,dumbbell rows
+13,Core-Back,seated cable rows
+14,Core-Back,bent-over rows
+15,Core-Back,hyperextensions
+16,Core-Back,bird dog
+17,UpperBody-Biceps,barbell curls
+18,UpperBody-Biceps,dumbbell curls
+19,UpperBody-Biceps,preacher curls
+20,UpperBody-Biceps,hammer curls
+21,UpperBody-Biceps,concentration curls
+22,UpperBody-Triceps,close-grip bench press
+23,UpperBody-Triceps,overhead triceps extensions
+24,UpperBody-Triceps,triceps pushdowns
+25,UpperBody-Triceps,skull crushers
+26,UpperBody-Triceps,triceps dips
+27,LowerBody,barbell squats
+28,LowerBody,leg press
+29,LowerBody,leg extensions
+30,LowerBody-Hamstrings,romanian deadlifts
+31,LowerBody-Hamstrings,leg curls
+32,LowerBody-Glutes,barbell hip thrusts
+33,LowerBody-Glutes,donkey kicks
+34,LowerBody-Glutes,standing calf raises
+35,LowerBody-Glutes,seated calf raises
+36,UpperBody-Shoulders,dumbbell front raises
+37,UpperBody-Shoulders,lateral raises
+38,UpperBody-Shoulders,bent-over lateral raises
+39,UpperBody-Shoulders,face pulls
+40,Core-Abdominals,crunches
+41,Core-Abdominals,leg raises
+42,Core-Abdominals,bicycle crunches
+43,Core-Abdominals,russian twists
+44,Core-Abdominals,hanging leg raises
+45,Core-Abdominals,plank
+46,UpperBody-Forearms,wrist curl
+47,UpperBody-Forearms,wrist extension
+48,UpperBody-Forearms,plate pinch
+49,UpperBody-Forearms,towel pull-up
+50,UpperBody-Forearms,fat grip dumbbell curl
+51,UpperBody-Forearms,hammer curl
+52,Core-Abdominals,partner plank band row
+53,Core-Abdominals,banded crunch isometric hold
+54,Core-Abdominals,banded plank jack
+55,Core-Abdominals,banded crunch
+56,Core-Abdominals,crunch
+57,Core-Abdominals,decline band press sit-up
+58,Core-Abdominals,banded frog pump
+59,Core-Abdominals,band low-to-high twist
+60,Core-Abdominals,barbell roll-out
+61,Core-Abdominals,barbell ab rollout - on knees
+62,Core-Abdominals,decline bar press sit-up
+63,Core-Abdominals,bench barbell roll-out
+64,Core-Abdominals,barbell side bend
+65,Core-Abdominals,seated bar twist
+66,Core-Abdominals,single-arm landmine pull and press
+67,Core-Abdominals,barbell ab roll out - gethin variation
+68,Core-Abdominals,barbell floor wiper
+69,Core-Abdominals,barbell roll-out
+70,Core-Abdominals,decline plate sit-up
+71,Core-Abdominals,kv barbell hip thrust
+72,Core-Abdominals,advanced kettlebell windmill
+73,Core-Abdominals,kettlebell windmill
+74,Core-Abdominals,kettlebell pass between the legs
+75,Core-Abdominals,kettlebell 3-point leg extension
+76,Core-Abdominals,double kettlebell swing
+77,Core-Abdominals,burpee over kettlebell
+78,Core-Abdominals,kettlebell toe-touch
+79,Core-Abdominals,kettlebell swing
+80,Core-Abdominals,two-way swing
+81,Core-Abdominals,kettlebell crab reach
+82,Core-Abdominals,single-arm kettlebell swing
+83,Core-Abdominals,kettlebell up to elbow down
+84,Core-Abdominals,double-kettlebell ski
+85,Core-Abdominals,kettlebell hike
+86,Core-Abdominals,kettlebell cross-body catch
+87,Core-Abdominals,kettlebell duck walk
+88,Core-Abdominals,kettlebell get-up reach
+89,Core-Abdominals,kettlebell juggle
+90,Core-Abdominals,squat-clean-alternating-press complex
+91,Core-Abdominals,dumbbell v-sit cross jab
+92,Core-Abdominals,dumbbell spell caster
+93,Core-Abdominals,dumbbell side bend
+94,Core-Abdominals,dumbbell crunch
+95,Core-Abdominals,dumbbell fix dumbbell sprawl
+96,Core-Abdominals,dumbbell fix alternating renegade row
+97,Core-Abdominals,dumbbell fix dumbbell mountain climber
+98,Core-Abdominals,dumbbell fix dumbbell russian twist
+99,Core-Abdominals,dumbbell fix dumbbell pull-over
+100,Core-Abdominals,dumbbell fix dumbbell sit-up
+101,Core-Abdominals,dumbbell fix dumbbell front squat
+102,Core-Abdominals,dumbbell fix full man maker
+103,Core-Abdominals,dumbbell t-hold
+104,Core-Abdominals,dumbbell hollow-body floor press
+105,Core-Abdominals,dumbbell crusher
+106,Core-Abdominals,dumbbell crunch - gethin variation
+107,Core-Abdominals,single-arm dumbbell crunch
+108,Core-Abdominals,alternating dumbbell plank row
+109,Core-Abdominals,dumbbell straight-legged hip raise
+110,Core-Abdominals,seated leg tuck with dumbbell
+111,Core-Abdominals,dumbbell v-sit cross jab-
+112,Core-Abdominals,hanging leg raise with dumbbell
+113,Core-Abdominals,dumbbell get-up sit-up
+114,Core-Abdominals,right side plank with left triceps press
+115,Core-Abdominals,left side plank with right triceps press
+116,Core-Abdominals,boat with feet push-out and overhead press
+117,Core,hovering plank row
+118,Core-Abdominals,weighted seated killer abs to russian twist
+119,Core,straight plank dumbbell reach-under
+120,Core,straight-arm side plank overhead press to chest press
+121,Cardio,weighted burpee to pike
+122,UpperBody,straight-legged boat chest press
+123,Cardio,weighted burpee to side delt raise
+124,UpperBody,heavy double pike
+125,UpperBody,heavy double split pike
+126,Core-Abdominals,alternating dumbbell sit-through
+127,Core-Abdominals,alternating plank row with dumbbell pull-through
+128,Core-Abdominals,alternating plank row with push-up
+129,Core-Abdominals,dumbbell russian twist
+130,Core-Abdominals,dumbbell toe-touch
+131,Core-Abdominals,plank to alternating row
+132,Core-Abdominals,standing dumbbell knee crunch-
+133,Core-Abdominals,plank with dumbbell rotation
+134,Core-Abdominals,dumbbell crab reach
+135,Core-Abdominals,dumbbell man-maker
+136,Core-Abdominals,dumbbell sit-up reach
+137,Core-Abdominals,loaded beast sprawl
+138,Core-Abdominals,loaded to unloaded beast
+139,Core-Abdominals,lying leg pullover
+140,Core-Abdominals,landmine twist
+141,Core-Abdominals,suspended ab fall-out
+142,Core-Abdominals,decline reverse crunch
+143,Core-Abdominals,plate twist
+144,Core-Abdominals,weighted crunches
+145,Core-Abdominals,ab roller
+146,Core-Abdominals,otis-up
+147,Core-Abdominals,captain's chair knee raise
+148,Core-Abdominals,sledgehammer swing
+150,Core-Abdominals,pallof press
+151,Core-Abdominals,weighted sit-ups - with bands
+152,Core-Abdominals,suitcase crunch
+153,Cardio,rope jumping
+154,Core-Abdominals,barbell press sit-up
+155,Core-Abdominals,single-arm bent-over rear delt fly
+156,Core-Abdominals,captain's chair leg raise
+157,Core-Abdominals,shoulder-elevated one-leg hip thrusts
+158,Core-Abdominals,ab twist - gethin variation
+159,Core-Abdominals,weighted crunch - gethin variation
+160,Core-Abdominals,ab wheel roll-out - gethin variation
+161,Core-Abdominals,bench crunch
+162,Core-Abdominals,decline plate sit-up twist
+163,Core-Abdominals,reverse ab roll-out
+164,Core-Abdominals,seated twist with pvc pipe
+165,Core-Abdominals,suspended crunch-
+166,Core-Abdominals,suspended oblique crunch
+167,Core-Abdominals,weighted sit-up
+168,Core-Abdominals,decline press sit-up
+169,Core,towel reverse plank alternating heel pull-in
+170,Core-Abdominals,boat with weighted cross punch
+171,Core-Abdominals,weighted hook punch
+172,Core-Abdominals,weighted traveling punch
+173,Core-Abdominals,weighted uppercut punch
+174,Core-Abdominals,slow weighted double pike
+175,Core,plate straight plank reach
+176,Core,plate elbow plank jack to straight plank jack
+177,Core-Abdominals,plate hill climber
+178,Core,plate reverse plank hill climber
+179,Core-Abdominals,plate straight plank pike to jack
+180,Core-Abdominals,plate in-and-out push-up
+181,Cardio,plate burpee
+182,Core-Abdominals,plate elbow plank reach
+183,Core,elbow plank to renegade row
+184,Core,straight plank weighted hand hill climber
+185,Core-Abdominals,weighted left side diagonal pike
+186,Core-Abdominals,weighted right side diagonal pike
+187,Core-Abdominals,weighted w-boat to overhead press
+188,Core-Abdominals,weighted kneeling lift
+189,Core-Abdominals,hips-up weighted pull-over
+190,Core-Abdominals,weighted cross punch
+191,Core-Abdominals,straight-leg boat hover chest press
+192,Core-Abdominals,weighted pike
+193,Core-Abdominals,feet-elevated wax-on wax-off
+194,Core,elbow plank to towel pike
+195,Core-Abdominals,seated killer abs overhead press
+196,Core,straight plank alternating weighted open
+197,Core-Abdominals,weighted killer abs with overhead press
+198,Core-Abdominals,weighted split-leg pike
+199,Core,towel reverse plank heel pull-in
+200,Core-Abdominals,stick twist
+201,Core-Abdominals,standing cable low-to-high twist
+202,Core-Abdominals,single-arm high-cable side bend
+203,Core-Abdominals,kneeling cable oblique crunch
+204,Core-Abdominals,kneeling cable crunch
+205,Core-Abdominals,rope crunch
+206,Core-Abdominals,standing cable crunch
+207,Core-Abdominals,bosu ball cable crunch with side bends
+208,Core-Abdominals,standing cable wood chop
+209,Core-Abdominals,cable reverse crunch
+210,Core-Abdominals,cable russian twists
+211,Core-Abdominals,pallof press with rotation
+212,Core-Abdominals,cable seated crunch
+213,Core-Abdominals,cable judo flip
+214,Core-Abdominals,exercise ball cable crunch - gethin variation
+215,Core-Abdominals,standing cable high-to-low twist
+216,Core-Abdominals,bent-over reverse cable fly
+217,Core-Abdominals,standing cable crunch - gethin variation
+218,Core-Abdominals,am cable crunch
+219,Core-Abdominals,tyler holt weighted knee-to-chest crunch
+220,Core-Abdominals,standing cable twist
+221,Core-Abdominals,cable rope crunch
+222,Core-Abdominals,cable rope oblique crunch
+223,Core-Abdominals,cable lying twist on ball
+224,Core-Abdominals,cable pallof press
+225,Core-Abdominals,cable reverse crunch on ball
+226,Core-Abdominals,cable reverse crunch
+227,Core-Abdominals,tyler holt cable torso twist
+228,Core-Abdominals,single-arm cable outward-facing biceps curl
+229,Core-Abdominals,biceps rope curl
+230,Core-Abdominals,kneeling cable crunches
+231,Core-Abdominals,ab crunch machine
+232,Core-Abdominals,smith machine straight-legged hip raise
+233,Core-Abdominals,machine crunch
+234,Core-Abdominals,am ab machine
+235,Core-Abdominals,smith machine v-up
+236,Core,elbow plank
+237,Core-Abdominals,bottoms up
+238,Core-Abdominals,spider crawl
+239,Core-Abdominals,cocoons
+240,Core-Abdominals,cross-body crunch
+241,Core-Abdominals,elbow-to-knee crunch
+242,Core-Abdominals,decline crunch
+243,Core-Abdominals,hanging toes-to-bar
+244,Core-Abdominals,hanging oblique knee raise
+245,Core-Abdominals,gorilla chin/crunch
+246,Core-Abdominals,hanging leg raise
+247,Core-Abdominals,mountain climber
+248,Core-Abdominals,ab bicycle
+249,Core-Abdominals,3/4 sit-up
+250,Core-Abdominals,reverse crunch
+252,Core-Abdominals,dead bug reach
+253,Core-Abdominals,crunch - hands overhead
+254,Core-Abdominals,v-up
+255,Core-Abdominals,russian twist
+256,Core-Abdominals,flat bench lying leg raise
+257,Core-Abdominals,knees tucked crunch
+258,Core-Abdominals,butt-ups
+259,Core-Abdominals,feet-elevated oblique crunch
+260,Core-Abdominals,bent-knee reverse crunch
+261,Core-Abdominals,alternating heel-touch
+262,Core-Abdominals,suspended reverse crunch
+263,Core-Abdominals,lying bench reverse crunch
+264,Core-Abdominals,sit-up
+265,Core-Abdominals,side bridge
+266,Core-Abdominals,lying oblique crunch
+267,Core-Abdominals,janda sit-up
+268,Core-Abdominals,leg pull-in
+269,Core-Abdominals,side jackknife
+270,Core-Abdominals,seated scissor kick
+271,Core-Abdominals,partner resistance standing twist
+272,Core-Abdominals,cross crunch
+273,Core-Abdominals,full moon
+274,Core-Abdominals,hanging knee raise with manual resistance
+275,Core-Abdominals,straight-legged hip raise
+276,Core-Abdominals,wall mountain climber
+277,Core-Abdominals,skin the cat to push-up
+278,Core-Abdominals,partner lying leg raise with lateral throw down
+279,Core-Abdominals,hanging leg raise with throw down
+280,Core-Abdominals,partner sit-up with high-five
+281,Core-Abdominals,exercise ball knee roll-in
+282,Core-Abdominals,partner lying leg raise with throw down
+283,Core-Abdominals,crab toe-touch
+284,Core-Abdominals,side kick-through
+285,Core-Abdominals,partner target sit-up
+286,Core-Abdominals,suspended crunch
+287,Cardio,jump lunge
+288,Core,side plank hip dip
+289,Core,elbow plank jack
+290,Core-Abdominals,exercise ball v-up
+291,Core-Abdominals,standing torso twist stretch
+292,Cardio,slalom jumps
+293,Core-Abdominals,bear crawl
+294,Core-Abdominals,side lunge cross-body heel-touch
+295,Core-Abdominals,alligator crawl
+296,Core-Abdominals,lying cross-over lower back stretch
+297,Core-Abdominals,shoulder tap
+298,Core-Abdominals,double crunch
+299,Core-Abdominals,flutter kick
+300,Core,sprawl
+301,Core,spider plank jack
+302,Core-Abdominals,pillar-to-plank
+303,Core-Abdominals,alternating high knee raise
+304,Core-Abdominals,sumo squat pulse
+305,Cardio,line-drill foot work
+306,Core,plank fire hydrants
+307,Cardio,banded jumping jack
+308,Core-Abdominals,shin hug
+309,Core-Abdominals,bear crawl fire feet
+310,Core-Abdominals,bear crawl up-down
+311,Cardio,crab kick
+312,Core-Abdominals,bear crawl hold
+313,Core-Abdominals,traveling bear crawl
+314,Core-Abdominals,single-leg v-up
+315,Core-Abdominals,bear crawl shoulder tap
+316,Core-Abdominals,alternating single-leg sprawl
+317,Cardio,wide mountain climber
+318,Core,plank leg raise
+319,Core-Abdominals,glute bridge step-out
+320,Cardio,knee up-down
+322,Core-Abdominals,reach crunch
+323,Core,push-up plank hold
+324,Core-Abdominals,hollow-body rock
+325,Core-Abdominals,v-up plus knee-to-chest combo
+326,Core,side plank lateral raise
+327,Cardio,superhero burpee
+328,Core-Abdominals,hollow-body abduction
+329,Core-Abdominals,hollow hold
+330,Core-Abdominals,tip-toe crunch
+331,Core-Abdominals,knee-to-nose pulse
+332,Core,plank walk-out
+333,Core-Abdominals,v-up
+334,Core-Abdominals,long sit-up
+335,Core-Abdominals,seated leg lift
+336,Cardio,gorilla burpee
+337,Core-Abdominals,knee-in to v-out
+338,Core-Abdominals,bear crawl push-up
+339,Core-Abdominals,front step
+340,Core,plank reach
+341,Core-Abdominals,eiffel tower leg raise
+342,Core,straight-arm plank
+343,Core,plank up-down
+344,Core-Abdominals,frog kick
+345,Core-Abdominals,knees to chest
+346,Core-Abdominals,front kick-through
+347,Core-Abdominals,sit-up
+348,Core-Abdominals,leg lift
+349,Core-Abdominals,toes-to-bar
+350,Cardio,mountain climber
+351,Core-Abdominals,roman chair side ups
+352,Core-Abdominals,push-up roll out - gethin variation
+353,Core-Abdominals,cross-body crunch - gethin variation
+354,Core-Abdominals,decline leg lift with twist
+355,Core-Abdominals,hanging leg raise - variation gethin
+356,Core-Abdominals,butterfly crunch
+357,Core-Abdominals,cross-body mountain climber
+358,Core-Abdominals,flat bench lying leg raise - gethin variation
+359,Core-Abdominals,lying leg lift
+360,Core-Abdominals,hanging alternating single-leg raise
+361,Core,plank walk
+362,Core-Abdominals,sit-up - gethin variation
+363,Core,plank push-up
+364,Core-Abdominals,decline crunch-
+365,Core-Abdominals,alternating lying leg raise
+366,Core-Abdominals,decline leg lift
+367,Core-Abdominals,crunch - gethin variation
+368,Core,plank - gethin variation
+369,Core-Abdominals,barbell floor wiper
+370,UpperBody,prison push-up
+371,Core-Abdominals,mcgill modified curl-up
+372,Core-Abdominals,cross-body toe-touch
+373,Core-Abdominals,toy soldier
+374,Core-Abdominals,natural glute ham raise with stability ball
+375,Core-Abdominals,lateral ape
+376,Core-Abdominals,hollow-body knee tuck
+377,Cardio,air jumping rope
+378,Core-Abdominals,alternating lunge reach
+379,Core,alternating side plank reach
+380,Core,superman plank
+381,Core-Abdominals,table pose
+382,Core-Abdominals,toe touch
+383,Core-Abdominals,right side crunch
+384,Core-Abdominals,bicycle
+385,Core,bird-dog plank
+386,Core-Abdominals,boat pose
+388,Core-Abdominals,bridge
+389,Cardio,running man crunch
+390,Core-Abdominals,seated twist
+391,Core-Abdominals,side-bend pose
+392,Core,side-plank arm wrap
+393,Core,side-plank with hip touch
+394,Core,side-plank with kick
+395,Core-Abdominals,side v-up
+396,Core-Abdominals,crab crunch
+397,Core-Abdominals,cross-over crunch
+398,Core-Abdominals,crunch pulse
+399,Core-Abdominals,dead bug
+400,Core-Abdominals,single-leg inchworm
+401,Core-Abdominals,floor jack
+402,Core-Abdominals,floor wiper
+403,Core-Abdominals,floor kick
+405,Cardio,slow mountain climber
+406,Core-Abdominals,slow sit-up
+407,Core-Abdominals,half-up
+408,Core-Abdominals,hollow-body pulse
+410,Core-Abdominals,inchworm
+411,Core-Abdominals,right side hollow hold with pulse
+412,Core-Abdominals,reverse crunch with frisbee
+413,Core-Abdominals,left side bird-dog
+414,Core-Abdominals,left side crunch
+415,Core-Abdominals,left side hollow hold with pulse
+416,Core-Abdominals,reverse crunch
+417,Core-Abdominals,low lunge with external twist and arm reach
+419,Core-Abdominals,prison sit-up
+420,Core,plank alternating hip-dip
+421,Core-Abdominals,tuck-up get-up
+422,Core-Abdominals,flutter kick
+424,Core-Abdominals,mcgill pull-up
+425,Core-Abdominals,am leg lift
+426,Core-Abdominals,am decline abs
+427,Core-Abdominals,hanging crunch
+428,Core-Abdominals,tyler holt hanging toes-to-bar
+429,Core,side plank
+430,Core-Abdominals,bird dog-
+431,Core-Abdominals,single-leg curl up
+432,Core-Abdominals,single-kettlebell windmill
+433,Core-Abdominals,foam roll thigh
+434,Core-Abdominals,inverted row
+435,Core-Abdominals,t-spine rotation with reach
+436,Core-Abdominals,quadruped thoracic rotation
+437,Core-Abdominals,pec stretch
+438,Core-Abdominals,lat stretch
+439,Core-Abdominals,foam roll
+440,Core-Abdominals,foam roll lats
+441,Core-Abdominals,rocking adductor stretch
+442,Core-Abdominals,bird dog
+443,Cardio,jumping jack
+444,Core-Abdominals,ab wheel roll-out
+445,Core-Abdominals,bench mountain climber
+446,Core,feet-elevated bench side plank
+447,Core-Abdominals,cross-body sit-up
+448,Core-Abdominals,decline kayak
+449,Core-Abdominals,decline reverse crunch
+450,Core-Abdominals,decline sit-up twist
+451,Core-Abdominals,flat bench leg raise
+453,Core-Abdominals,chin-up crunch
+454,Core-Abdominals,gorilla chin oblique crunch
+455,Core-Abdominals,half turkish get-up
+456,Core-Abdominals,hanging oblique crunch
+457,Core-Abdominals,hollow-body hold
+458,Core-Abdominals,parallel bars knee raise
+459,Core-Abdominals,landmine twist
+460,Core-Abdominals,parallel bars leg raise
+461,Core-Abdominals,otis-up-
+462,Core-Abdominals,shoulder tap
+463,Core-Abdominals,spider crawl
+464,Core-Abdominals,spider crunch
+465,Core-Abdominals,toe-touch
+466,Core-Abdominals,hanging toes-to-bar
+468,Core-Abdominals,cocoon crunch
+469,Core-Abdominals,bench oblique crunch
+470,Core-Abdominals,full moon-
+471,Core,push-up to side plank
+472,Core-Abdominals,tyler holt v-up
+473,Core,tyler holt plank
+474,Core-Abdominals,tyler holt hip-dip
+475,Core-Abdominals,suicides
+476,Core,towel straight plank jack
+477,Core-Abdominals,towel hill climber
+478,Core,towel elbow plank jack
+479,Core,towel elbow plank pike
+480,Core,towel straight plank hand reach
+481,Core-Abdominals,towel wax-on wax-off
+482,Core-Abdominals,towel wide hill climber
+483,Core-Abdominals,towel dirty dog
+484,Core,straight plank shoulder tap
+485,Core-Abdominals,killer abs
+486,Core,straight plank split jack
+487,Core,elbow plank swim
+488,Core,elbow plank saw
+489,Core,feet-elevated straight plank toe-tap series
+490,Core,elbow plank pike pull
+491,Core-Abdominals,hand-elevated walk-over push-up
+492,Core-Abdominals,hands-elevated hill climber
+493,Core-Abdominals,seated pike
+494,Core-Abdominals,feet-elevated up-down plank
+495,Core-Abdominals,feet-elevated hand tap
+496,Core,reverse straight plank with alternating heel pull-in
+497,Core,elbow plank
+498,Core,straight plank squat thrust
+499,Core-Abdominals,alternating single-leg pike
+500,Core-Abdominals,knee pull-in crunch
+501,Core,straight plank with hand tap
+502,Core,straight plank with dirty dog
+503,Core,elbow plank roll
+504,Core-Abdominals,froggy push-up
+505,Core,straight plank hand tap to shoulder tap
+506,Core,in-out straight plank
+508,Core-Abdominals,alternating diagonal knee pull-in
+509,Core,elbow plank with step-out
+510,Core-Abdominals,alternating slow l-raise
+511,Core,feet-elevated plank with shoulder tap
+512,Core,feet-elevated inchworm pike to straight plank push-up
+513,Core,feet-elevated up-down elbow plank
+514,Core,feet-elevated plank pike pull
+515,Core-Abdominals,feet-elevated alternating single-leg hip raise
+516,Core,feet-elevated plank pike pull to push-up
+517,Core-Abdominals,standing heel click
+518,Core,straight plank right-left jack to split jack
+519,Core,elbow plank jack to ninja knees
+520,Core,right side elbow plank with left leg swing
+521,Core,left side elbow plank with right leg swing
+522,Core,straight plank with alternating diagonal sit-back
+523,Core-Abdominals,boat press with leg extension
+524,Core-Abdominals,shoulder tap to dirty dog
+525,Core-Abdominals,standing russian twist
+526,Core,hovering plank with shoulder tap
+527,Core,elbow plank to stacked plank hip drop
+528,Core,elbow plank to walk-up pike
+529,Core,straight plank pike to renegade row
+530,Core-Abdominals,alternating hip drop to push-up
+532,Core-Abdominals,wounded bear crawl
+533,Core-Abdominals,alternating crab reach
+534,Core-Abdominals,hovering panther core stabilizer
+535,Cardio,burpee to forward lunge
+536,Core-Abdominals,seated knee pull-in series
+537,Core,elbow plank pike
+538,Core,elbow plank jack to straight plank split jack
+539,Core-Abdominals,boat pull-over
+540,Cardio,squat pulse to plyometric jump
+541,Core-Abdominals,hands down heel click
+542,Core,straight plank to kick-up
+543,Core-Abdominals,hands-elevated split jack
+544,Core,feet-elevated plank reach
+545,Core-Abdominals,hand-elevated side plank semicircle
+546,Core,hands-elevated straight plank pike
+547,Core,alternating rolling elbow plank
+548,Core,elbow plank jack
+549,LowerBody,squat thrust to alternating knee-in
+550,Core-Abdominals,supine double pike
+551,Core,elbow plank alternating pike
+552,Core-Abdominals,seated killer abs
+553,Core,side plank hip drop
+554,Core-Abdominals,wide hill climber
+555,Core-Abdominals,straight-legged bicycle
+556,Core-Abdominals,stair toe tap
+557,Core,elbow plank ninja
+558,UpperBody,traveling stair climb push-up
+559,Cardio,hands-elevated burpee
+560,Core,straight plank donkey kick
+561,Core,feet-elevated straight plank pike pull
+562,Cardio,towel burpee
+563,Core,elbow plank to alternating side plank crunch
+565,Core-Abdominals,feet-elevated hill climber
+566,Core-Abdominals,ninja knee hill climber
+567,Core-Abdominals,feet-elevated shoulder tap
+568,Core-Abdominals,feet-elevated hip raise
+569,Core-Abdominals,left hand right foot crab reach
+570,Core-Abdominals,alternating crab flip to froggy push-up to kicks
+571,Core-Abdominals,right hand left foot sleeping crab
+572,Core-Abdominals,left hand right foot sleeping crab
+573,Core,straight plank with alternating leg kick-under
+574,Core-Abdominals,right hip drop push-up
+575,Core-Abdominals,right side diagonal burpee
+576,Core-Abdominals,left hip drop push-up
+577,Core-Abdominals,right leg 7-up crunch
+578,Core-Abdominals,left leg 7-up crunch
+579,Core,straight plank jack
+580,Core-Abdominals,feet-elevated couch hill climber
+581,Core,feet-elevated right side plank
+582,Core,alternating up-down plank to push-up
+583,Core,straight plank pike
+584,Core,ninja knee straight plank
+585,Core-Abdominals,reverse crunch to hip raise
+586,Core,straight plank quick reach
+587,Core,alternating diagonal straight plank
+588,Core,feet-elevated left side plank
+589,Core-Abdominals,right hand left foot crab reach
+590,Core-Abdominals,low-impact crab kick
+591,Core-Abdominals,alternating crab flip to froggy push-up
+592,Cardio,high-impact crab kick
+593,Core-Abdominals,single-leg right pike
+594,Core-Abdominals,single-leg left pike
+595,Core-Abdominals,shoulder tap to hand tap
+596,Core,towel reverse plank jack
+597,Core-Abdominals,side-to-side twist
+598,Cardio,crab kick with hop
+599,Core-Abdominals,crab reach to crab kick
+600,Core-Abdominals,wide squat side-to-side obliques
+601,Core,side plank crunch
+602,Core-Abdominals,ab tuck
+603,Core-Abdominals,active hang from bar
+604,Core-Abdominals,cat-cow
+605,Core-Abdominals,crab walk
+606,LowerBody,lunge with overhead reach
+607,Core-Abdominals,hang from bar
+609,Core,side plank
+610,Core,side plank pulse
+611,Core-Abdominals,spider crawl (unweighted)
+613,Core-Abdominals,alternating knee-to-elbow mountain climber
+614,Core-Abdominals,alternating sit-through with crunch-
+615,Core-Abdominals,alternating toe-touch
+617,Core-Abdominals,oblique roll crunch
+618,Core,plank jack
+619,Core,plank to alternating side plank
+620,Core,plank up-down
+621,Core,plank wiper
+622,Core,plank with alternating toe-touch
+623,Core-Abdominals,plyo push-up
+624,Core-Abdominals,psycho crunch
+625,Core,scapular retraction plank
+626,Core,scapular retraction plank hold
+627,Core-Abdominals,scorpion
+628,Core-Abdominals,side crawler
+629,Core,side plank oblique crunch
+630,Core-Abdominals,sit-through
+631,Core-Abdominals,sit-up to v-up
+632,Core-Abdominals,sit-up with rotation
+633,Core-Abdominals,split-leg crunch
+634,Core-Abdominals,tabletop hip thrust
+635,Core-Abdominals,tabletop with russian kick
+636,Core-Abdominals,toe driver abs
+638,Core-Abdominals,x-body v-up
+639,Core-Abdominals,swivel crunch
+640,Core-Abdominals,robertson core-engaged dead bug
+641,Core-Abdominals,double-under
+642,Cardio,fire feet with burpee tuck jump drill
+644,Core-Abdominals,half-moon
+645,Core-Abdominals,leopard crawl
+646,Core-Abdominals,plank alternating front step
+648,Core,hand shift plank
+649,Core,cross-body plank march
+650,Core-Abdominals,bent-knee copenhagen hip adduction
+651,Core,copenhagen plank
+652,Core-Abdominals,hanging leg tuck
+653,Core-Abdominals,alternating hanging knee raise
+654,Core,plank to sphinx
+655,Cardio,twisting mountain climbers
+656,Core-Abdominals,jack knives
+657,Core-Abdominals,hanging leg raises
+658,Core-Abdominals,dumbbell suitcase crunch
+659,Core-Abdominals,medicine ball rotational throw
+660,Core-Abdominals,hollow-hold ball toss
+661,Core-Abdominals,partner front russian twist and pass
+662,Core-Abdominals,sit-up with single-arm overhand throw
+663,Core-Abdominals,medicine ball partner twist
+664,Core-Abdominals,partner side russian twist and pass
+665,Core-Abdominals,medicine ball half moon
+666,Core-Abdominals,exercise ball roll-out
+667,Core-Abdominals,medicine ball pass
+668,Core-Abdominals,partner medicine ball sit-up
+669,Core-Abdominals,medicine ball russian twist
+670,Core-Abdominals,medicine ball slam
+671,Core-Abdominals,medicine ball twist
+672,Core-Abdominals,medicine ball complex
+673,Core-Abdominals,medicine ball fire-feet drill
+674,Core-Abdominals,medicine ball knees-to-chest
+675,Core-Abdominals,medicine ball mountain climber
+676,Core-Abdominals,decline oblique crunch
+677,Core-Abdominals,decline sit-up
+678,Core-Abdominals,hanging windshield wiper
+679,Core-Abdominals,exercise ball pull-in
+680,Core-Abdominals,exercise ball crunch
+681,Core-Abdominals,feet-elevated crunch
+682,Core-Abdominals,weighted ball side bend
+683,Core-Abdominals,swiss ball ab roll-out
+685,Core-Abdominals,exercise ball squat and twist
+686,Core-Abdominals,swiss ball v-up with foot pass
+687,Core-Abdominals,exercise ball pike
+688,Core-Abdominals,exercise ball bird dog
+689,Core-Abdominals,exercise ball superman
+690,Core-Abdominals,bosu cross-body crunch
+691,Core-Abdominals,exercise ball knee tuck - gethin varation
+692,Core-Abdominals,alternating exercise ball knee tucks - gethin variation
+693,Core-Abdominals,am ball crunch
+694,Core-Abdominals,bosu cable reverse crunch
+695,Core-Abdominals,bosu knee tuck
+696,Core,side plank on ball
+697,Core-Abdominals,hanging exercise ball leg raise
+698,Core-Abdominals,exercise ball stir-the-pot
+699,Core-Abdominals,air ball
+700,Core,feet-elevated plank on ball
+701,LowerBody-InnerThigh,band hip adductions
+702,LowerBody-OuterThigh,lateral band walk
+703,LowerBody-OuterThigh,standing banded leg abduction
+704,Cardio,lateral box jump
+705,LowerBody-InnerThigh,thigh adductor
+706,LowerBody-OuterThigh,thigh abductor
+707,LowerBody-OuterThigh,fire hydrant
+708,Cardio,lateral hop
+709,LowerBody-OuterThigh,monster walk
+710,LowerBody-InnerThigh,carioca quick step
+711,LowerBody-InnerThigh,lateral cone hop
+712,LowerBody-InnerThigh,side-to-side adductor stretch
+713,LowerBody-OuterThigh,dynamic pigeon stretch
+714,LowerBody-OuterThigh,cross-over jack
+715,LowerBody-OuterThigh,traveling thigh killa
+716,LowerBody-OuterThigh,thigh killa
+717,LowerBody-OuterThigh,frog stretch
+718,LowerBody-OuterThigh,kick-out
+719,LowerBody-InnerThigh,left leg swing
+720,LowerBody-InnerThigh,foam roll adductor
+721,LowerBody-OuterThigh,groiner
+722,LowerBody-InnerThigh,side-lying leg adduction scissor
+723,UpperBody-Biceps,incline dumbbell biceps curl
+724,UpperBody-Biceps,banded biceps curl in squat position
+725,UpperBody-Biceps,banded hammer press - gethin variation
+726,UpperBody-Biceps,band standing concentration curl
+727,UpperBody-Biceps,wide-grip barbell curl
+728,UpperBody-Biceps,ez-bar spider curl
+729,UpperBody-Biceps,barbell curl
+730,UpperBody-Biceps,close-grip ez-bar curl
+731,UpperBody-Biceps,preacher curl
+732,UpperBody-Biceps,barbell curls lying against an incline
+733,UpperBody-Biceps,seated close-grip concentration barbell curl
+734,UpperBody-Biceps,close-grip barbell curl
+735,UpperBody-Biceps,drag curl
+736,UpperBody-Biceps,reverse-grip barbell curl
+737,UpperBody-Biceps,lying high bench barbell curl
+738,UpperBody-Biceps,seated wide-grip curl to close-grip curl
+739,UpperBody-Biceps,seated straigh-bar curl superset
+740,UpperBody-Biceps,dave draper forehead curl
+741,UpperBody-Biceps,reverse-grip ez-bar curl
+742,UpperBody-Biceps,ez-bar spider curl - gethin variation
+743,UpperBody-Biceps,barbell curl-
+744,UpperBody-Biceps,paul carter barbell curl
+745,UpperBody-Biceps,standing band biceps curl
+746,UpperBody-Biceps,close-grip ez-bar curl - gethin variation
+747,UpperBody-Biceps,seated barbell curl
+748,UpperBody-Biceps,am standing barbell curl
+749,UpperBody-Biceps,ez-bar preacher curl
+750,UpperBody-Biceps,arms standing barbell curl
+751,UpperBody-Biceps,arms incline biceps curl
+752,UpperBody-Biceps,"bicep curls ""21s"""
+753,UpperBody-Biceps,incline hammer curls
+754,UpperBody-Biceps,hammer curls
+755,UpperBody-Biceps,biceps curl to shoulder press
+756,UpperBody-Biceps,concentration curl
+757,UpperBody-Biceps,flexor incline dumbbell curls
+758,UpperBody-Biceps,dumbbell bicep curl
+759,UpperBody-Biceps,cross-body hammer curl
+760,UpperBody-Biceps,dumbbell alternate bicep curl
+761,UpperBody-Biceps,single-arm dumbbell preacher curl
+762,UpperBody-Biceps,alternate incline dumbbell curl
+763,UpperBody-Biceps,standing concentration curl
+764,UpperBody-Biceps,alternating incline dumbbell biceps curl
+765,UpperBody-Biceps,alternate hammer curl
+766,UpperBody-Biceps,seated dumbbell biceps curl
+767,UpperBody-Biceps,preacher hammer dumbbell curl
+768,UpperBody-Biceps,dumbbell preacher curl
+769,UpperBody-Biceps,lying supine dumbbell curl
+770,UpperBody-Biceps,standing dumbbell reverse curl
+771,UpperBody-Biceps,palms-out incline biceps curl
+772,UpperBody-Biceps,straight-arm plank with biceps curl
+773,UpperBody-Biceps,face-down incline dumbbell biceps curl
+774,UpperBody-Biceps,seated dumbbell inner biceps curl
+775,UpperBody-Biceps,standing inner-biceps curl
+776,UpperBody-Biceps,seated hammer curl
+777,UpperBody-Biceps,paul carter incline dumbbell biceps curl
+778,UpperBody-Biceps,paul carter concentration curl
+779,UpperBody-Biceps,dumbbell curl
+780,UpperBody-Biceps,dumbbell biceps curl to upright row
+781,UpperBody-Biceps,dumbbell hammer curl
+782,UpperBody-Biceps,dumbbell overhead hold with single-arm curl
+783,UpperBody-Biceps,kneeling biceps
+784,UpperBody-Biceps,lunge hold dumbbell curl
+785,UpperBody-Biceps,dumbbell biceps curl
+786,UpperBody-Biceps,alternating dumbbell snatch
+787,UpperBody-Biceps,incline dumbbell curl
+788,UpperBody-Biceps,hammer curl
+789,UpperBody-Biceps,reverse-grip dumbbell curl
+790,UpperBody-Biceps,incline dumbbell curl - gethin variation
+792,UpperBody-Biceps,seated dumbbell curl - gethin variation
+793,UpperBody-Biceps,dumbbell hammer curl - gethin variation
+794,UpperBody-Biceps,single-arm seated dumbbell curl
+795,UpperBody-Biceps,lying cable curl - gethin variation
+796,UpperBody-Biceps,dumbbell biceps curl
+797,UpperBody-Biceps,seated biceps hammer curl
+798,UpperBody-Biceps,alternating reverse lunge with biceps curl
+799,UpperBody-Biceps,am hammer curls
+800,UpperBody-Biceps,am seated hammer curls
+801,UpperBody-Biceps,seated alternating biceps curl
+802,UpperBody-Biceps,alternating hammer curl
+803,UpperBody-Biceps,alternating biceps curl
+804,UpperBody-Biceps,slow biceps curl
+805,UpperBody-Biceps,biceps curl to chest punch
+806,UpperBody-Biceps,right arm heavy biceps curl
+807,UpperBody-Biceps,left arm heavy biceps curl
+808,UpperBody-Biceps,alternating front lunge biceps curl
+809,UpperBody-Biceps,weighted double-time biceps curl
+810,UpperBody-Biceps,heavy right arm biceps curl
+811,UpperBody-Biceps,heavy left arm biceps curl
+812,UpperBody-Biceps,dumbbell drag curl
+813,UpperBody-Biceps,hammer curl to overhead press
+814,UpperBody-Biceps,biceps curl to lateral raise
+815,UpperBody-Biceps,alternating dumbbell curl
+816,UpperBody-Biceps,pulse biceps curl
+817,UpperBody-Biceps,seesaw dumbbell biceps curl
+818,UpperBody-Biceps,single-dumbbell biceps curl
+819,UpperBody-Biceps,dumbbell curl-row complex
+820,UpperBody-Biceps,arms standing dumbbell hammer curl 21s
+821,UpperBody-Biceps,arms standing biceps curl
+822,UpperBody-Biceps,arms standing alternating hammer curl
+823,UpperBody-Biceps,arms standing alternating biceps curl
+824,UpperBody-Biceps,arms single-arm hammer preacher curl
+825,UpperBody-Biceps,arms single-arm dumbbell preacher curl
+826,UpperBody-Biceps,arms seated dumbbell concentration curl
+827,UpperBody-Biceps,arms seated biceps curl
+828,UpperBody-Biceps,arms seated alternating biceps curl
+829,UpperBody-Biceps,arms incline hammer curl
+830,UpperBody-Biceps,arms incline dumbbell triceps extension
+831,UpperBody-Biceps,arms hammer curl
+832,UpperBody-Biceps,reverse plate curls
+833,UpperBody-Biceps,suspended curl
+834,UpperBody-Biceps,plate hammer curl
+835,UpperBody-Biceps,barbell spider curl
+836,UpperBody-Biceps,barbell forehead curl
+837,UpperBody-Biceps,overhead cable curl
+838,UpperBody-Biceps,standing one-arm cable curl
+839,UpperBody-Biceps,reverse cable curl
+840,UpperBody-Biceps,standing biceps cable curl
+841,UpperBody-Biceps,cable rope hammer curl
+842,UpperBody-Biceps,lying cable biceps curl
+843,UpperBody-Biceps,cable rope preacher hammer curl
+844,UpperBody-Biceps,lying close-grip bar curl on high pulley
+845,UpperBody-Biceps,cable ez-bar preacher curl - gethin variation
+846,UpperBody-Biceps,squatting cable ez-bar biceps curl
+847,UpperBody-Biceps,cable straight-bar biceps curl
+848,UpperBody-Biceps,standing reverse-grip cable curl
+849,UpperBody-Biceps,lying high-cable biceps curl
+850,UpperBody-Biceps,high-pulley cable curl - gethin variation
+851,UpperBody-Biceps,standing high cable curl - gethin variation
+852,UpperBody-Biceps,high cable curls
+853,UpperBody-Biceps,seated cable biceps curl
+854,UpperBody-Biceps,lying close-grip bar curl on high pulley - gethin variation
+855,UpperBody-Biceps,standing cable curl - gethin variation
+856,UpperBody-Biceps,double arm cable biceps curl
+857,UpperBody-Biceps,am cable biceps curl
+858,UpperBody-Biceps,single-arm cable biceps curl
+859,UpperBody-Biceps,up cable curl with straight bar
+860,UpperBody-Biceps,arms cable rope hammer curl
+861,UpperBody-Biceps,arms squatting cable straight-bar curl
+862,UpperBody-Biceps,arms high cable curl
+863,UpperBody-Biceps,arms cable straight-bar curl
+864,UpperBody-Biceps,arms cable concentration curl
+865,UpperBody-Biceps,arms  high cable curl
+866,UpperBody-Biceps, cable rope hammer curl
+867,UpperBody-Biceps,machine bicep curl
+868,UpperBody-Biceps,machine preacher curls
+869,UpperBody-Biceps,single-arm machine preacher curl
+870,UpperBody-Biceps,machine preacher curl
+871,UpperBody-Biceps,smith machine drag curl
+872,UpperBody-Biceps,arms  machine preacher curl
+873,UpperBody-Biceps,chin-up
+874,UpperBody-Biceps,pull-up - gethin variation
+875,UpperBody-Biceps,un pull-up supinated
+876,UpperBody-Biceps,un pull-up pronated
+877,UpperBody-Biceps,un pull-up neutral
+878,UpperBody-Biceps,ez-bar curl
+879,UpperBody-Biceps,reverse barbell preacher curls
+880,UpperBody-Biceps,close-grip ez-bar curl with band
+881,UpperBody-Biceps,standing ez-bar curl - gethin variation
+883,UpperBody-Biceps,standing ez-bar curl
+884,UpperBody-Biceps,arms standing overhand ez-bar curl
+885,UpperBody-Biceps,arms ez-bar spider curl
+886,UpperBody-Biceps,arms ez-bar preacher curl
+887,UpperBody-Biceps,arms standing ez-bar curl
+888,LowerBody-Calves,calf raises - with bands
+889,LowerBody-Calves,rocking standing calf raise
+890,LowerBody-Calves,standing barbell calf raise
+891,LowerBody-Calves,barbell seated calf raise
+892,LowerBody-Calves,smith machine standing calf raise
+893,LowerBody-Calves,calf raise on a dumbbell
+894,LowerBody-Calves,standing dumbbell calf raise
+895,LowerBody-Calves,single-leg standing dumbbell calf raise
+896,LowerBody-Calves,dumbbell walking calf raise
+897,LowerBody-Calves,balance board
+898,LowerBody-Calves,weighted donkey calf raise
+899,Cardio,agility ladder
+900,LowerBody-Calves,single-leg machine seated calf raise
+901,LowerBody-Calves,smith machine calf raise
+902,LowerBody-Calves,standing calf raises
+903,LowerBody-Calves,seated calf raise
+904,LowerBody-Calves,calf press on the leg press machine
+905,LowerBody-Calves,calf press
+906,LowerBody-Calves,smith machine reverse calf raises
+907,LowerBody-Calves,seated single-leg calf press - gethin variation
+908,LowerBody-Calves,seated calf raise - gethin variation
+909,LowerBody-Calves,donkey calf raise - gethin variation
+910,LowerBody-Calves,standing calf raise facing hack squat machine - gethin variation
+911,LowerBody-Calves,calf press on a hack squat machine - gethin variation
+912,LowerBody-Calves,smith machine standing calf raises - gethin variation
+913,LowerBody-Calves,hack squat calf raise
+914,LowerBody-Calves,seated calf press - gethin variation
+915,LowerBody-Calves,leg press calf raise
+916,LowerBody-Calves,machine seated calf raise
+917,LowerBody-Calves,legs seated calf raise
+918,LowerBody-Calves,legs standing calf raise
+919,LowerBody-Calves,standing calf raise
+920,LowerBody-Calves,standing calf raise-
+921,LowerBody-Calves,left calf-spike sumo pulse
+922,UpperBody,cross over - with bands
+923,UpperBody,bench press - with bands
+924,UpperBody,bench press with short bands
+925,UpperBody,feet-elevated trx push-up
+926,UpperBody,band-suspended kettlebell bench press
+927,UpperBody,banded cross-over pull
+928,UpperBody,rusin band pull-apart
+929,UpperBody,banded push-up
+930,UpperBody,band-assisted one-arm push-up
+931,UpperBody,incline band bench press
+932,UpperBody,band push-up
+933,UpperBody,band chest fly
+935,UpperBody,barbell bench press - medium grip
+936,UpperBody,decline barbell bench press
+937,UpperBody,wide-grip bench press
+938,UpperBody,wide-grip decline barbell bench press
+939,UpperBody,barbell incline bench press medium-grip
+940,UpperBody,neck press
+941,UpperBody,front raise and pullover
+942,UpperBody,board bench press
+943,UpperBody,barbell bench press-wide grip
+944,UpperBody,wide-grip decline barbell pullover
+945,UpperBody,barbell guillotine bench press
+947,UpperBody,paul carter incline bench press
+948,UpperBody,incline bench press
+949,UpperBody,bench press
+950,UpperBody,close-grip bench press
+951,UpperBody,am flat bench barbell press
+952,UpperBody,up bench press
+953,UpperBody,up close-grip bench press
+954,UpperBody,barbell bench press
+955,UpperBody,incline barbell bench press
+956,UpperBody,chest incline barbell bench press
+957,UpperBody,chest barbell bench press
+958,UpperBody,chest 30-degree incline dumbbell press
+959,UpperBody,spoto press
+960,UpperBody,kettlebell plyo push-up
+961,UpperBody,extended range one-arm kettlebell floor press
+962,UpperBody,kettlebell alternating floor press
+963,UpperBody,one-arm kettlebell floor press
+964,UpperBody,leg-over floor press
+966,UpperBody,push-up to kettlebell hike combo
+967,UpperBody,pushups
+968,UpperBody,incline push-up
+969,UpperBody,hands-elevated push-up
+970,UpperBody,decline push-up
+971,UpperBody,single-arm push-up
+972,UpperBody,close push-up to wide push-up
+973,UpperBody,wide-grip hands-elevated push-up
+974,UpperBody,push-ups with feet on an exercise ball
+975,UpperBody,feet-elevated push-up
+976,UpperBody,isometric wipers
+977,UpperBody,clock push-up
+978,UpperBody,incline push-up depth jump
+979,UpperBody,push-up wide
+980,UpperBody,sphinx push-up
+981,UpperBody,close-hands push-up
+982,UpperBody,tiger-bend push-up
+983,UpperBody,plyo push-up
+984,UpperBody,close-grip hands-elevated push-up
+985,UpperBody,suspended push-up
+986,UpperBody,push up to side plank
+987,UpperBody,isometric chest squeezes
+988,UpperBody,side-to-side push-up
+989,UpperBody,typewriter push-up
+990,UpperBody,diamond push-up
+991,UpperBody,judo push-up
+992,UpperBody,superman push-up
+993,UpperBody,wide push-up
+994,UpperBody,one-arm push-up
+995,UpperBody,clapping push-up
+996,UpperBody,staggered push-up
+997,UpperBody,reverse-grip hands-elevated push-up
+998,UpperBody,triple clap push-up
+999,UpperBody,side kick-through push-up
+1000,Cardio,swimming
+1001,UpperBody,push-up
+1002,UpperBody,frog push-up
+1003,UpperBody,wide push-up plank hold
+1004,UpperBody,close push-up
+1005,UpperBody,push-up - gethin variation
+1006,UpperBody,incline push-up on chair
+1008,UpperBody,push-plank
+1009,UpperBody,am chest dips
+1010,UpperBody,push-up
+1011,UpperBody,up push-up
+1012,UpperBody,un push-up
+1013,UpperBody,foam roll pecs
+1014,UpperBody,un hands elevated push-up
+1015,UpperBody,seal drag to push-up
+1016,UpperBody,hand-elevated push-up with hand row
+1018,UpperBody,slow hips-up chest press
+1019,UpperBody,jump-out push-up with hand hop back
+1020,UpperBody,froggy push-up to donkey kick
+1021,UpperBody,push-up to sit back
+1022,UpperBody,sit back push-up
+1023,UpperBody,alternating staggered push-up
+1024,UpperBody,foot-up diving push-up
+1025,UpperBody,narrow push-up
+1026,UpperBody,dynamo push-up
+1027,UpperBody,jump to push-up
+1028,UpperBody,foot-elevated push-up
+1029,UpperBody,feet-elevated push-up
+1030,UpperBody, plyo push-up
+1031,UpperBody,scapular push-up
+1033,UpperBody,warrior push-up
+1034,UpperBody,roll-over push-up
+1035,UpperBody,one-arm push-up slow negative
+1036,UpperBody,chest push-up to isometric hold
+1037,UpperBody,chest push-up
+1038,UpperBody,chest bench push-up
+1039,UpperBody,3-phase push-up
+1040,UpperBody,fast feet to push-up
+1041,UpperBody,judo push-up to pike push-up
+1042,UpperBody,pike push-up
+1043,UpperBody,push-up to frogger
+1044,UpperBody,push-up with hand side-step
+1045,UpperBody,push-up with hand-up rotation
+1046,UpperBody,sphinx push-up
+1047,UpperBody,spiderman push-up
+1048,UpperBody,roberston push-up to down dog
+1049,UpperBody,push-up-breakdancer-shoulder-tap complex
+1050,UpperBody,hand-release push-up
+1051,UpperBody,1.5-rep push-up
+1052,UpperBody,triple-clap push-up
+1053,UpperBody,superman push-up
+1054,UpperBody,cross-over push-up
+1055,UpperBody,leverage incline chest press
+1056,UpperBody,butterfly
+1057,UpperBody,leverage chest press
+1058,UpperBody,decline smith press
+1059,UpperBody,smith machine bench press
+1060,UpperBody,leverage decline chest press
+1061,UpperBody,machine chest press
+1062,UpperBody,smith machine incline bench press
+1063,UpperBody,smith machine close-grip bench press
+1064,UpperBody,smith machine decline press
+1065,UpperBody,smith machine bench press throw
+1066,UpperBody,machine chest fly
+1067,UpperBody,machine bench press
+1068,UpperBody,machine seated chest press - gethin variation
+1069,UpperBody,smith machine weighted push-up
+1070,UpperBody,smith machine incline bench press-
+1071,UpperBody,smith machine decline bench press
+1072,UpperBody,am pec dec
+1073,UpperBody,chest machine flat chest press
+1074,UpperBody,smith machine push-up
+1075,UpperBody,chest smith machine incline chest press
+1076,UpperBody,chest smith machine chest press
+1077,UpperBody,chest machine incline chest press
+1078,UpperBody,chest machine fly
+1079,UpperBody,chest 30-degree incline smith machine press
+1080,UpperBody,low-cable cross-over
+1081,UpperBody,incline cable chest fly
+1082,UpperBody,cable crossover
+1083,UpperBody,incline cable chest press
+1084,UpperBody,cable chest press
+1085,UpperBody,single-arm cable cross-over
+1086,UpperBody,cable cross-over
+1087,UpperBody,standing cable chest press
+1088,UpperBody,lying cable chest fly
+1089,UpperBody,paul carter cable cross-over
+1090,UpperBody,one-arm cable crossover - gethin variation
+1091,UpperBody,incline cable fly - gethin variation
+1092,UpperBody,cable cross-over - gethin variation
+1093,UpperBody,seated cable chest fly
+1094,UpperBody,single-arm incline cable cross-over-
+1095,UpperBody,high-to-low cable chest fly
+1096,UpperBody,up cable cross-over
+1097,UpperBody,up cable fly
+1098,UpperBody,chest low-to-high cable fly
+1099,UpperBody,chest incline cable fly
+1100,UpperBody,chest incline cable chest press
+1101,UpperBody,chest high-to-low cable press
+1102,UpperBody,chest high-to-low cable fly
+1103,UpperBody,chest shoulder-height cable fly
+1104,UpperBody,cable pec fly
+1105,UpperBody,chest push (multiple response)
+1106,UpperBody,medicine ball chest pass
+1107,UpperBody,medicine ball sprawl to chest press
+1108,UpperBody,medicine ball push-up
+1109,UpperBody,chest push (single response)
+1110,UpperBody,chest push with run release
+1111,UpperBody,chest push from 3 point stance
+1112,UpperBody,dumbbell bench press
+1113,UpperBody,dumbbell flyes
+1114,UpperBody,incline dumbbell bench press
+1115,UpperBody,decline dumbbell flyes
+1116,UpperBody,reverse-grip incline dumbbell bench press
+1117,UpperBody,incline dumbbell flyes
+1118,UpperBody,neutral-grip dumbbell bench press
+1119,UpperBody,decline dumbbell bench press
+1120,UpperBody,single-arm kettlebell row
+1121,UpperBody,hammer grip incline db bench press
+1122,UpperBody,straight-arm dumbbell pull-over
+1123,UpperBody,incline dumbbell bench with palms facing in
+1124,UpperBody,incline dumbbell flyes - with a twist
+1125,UpperBody,bent-arm dumbbell pull-over
+1126,UpperBody,close-grip dumbbell bench press
+1127,UpperBody,single-dumbbell push-up
+1128,UpperBody,one-arm flat bench dumbbell flye
+1129,UpperBody,dumbbell fix dumbbell floor chest fly
+1130,UpperBody,dumbbell fix traveling push-up
+1131,UpperBody,incline dumbbell chest fly
+1132,UpperBody,paul carter dumbbell shrug
+1133,UpperBody,dumbbell push-up row
+1134,UpperBody,dumbbell incline press
+1135,UpperBody,incline dumbbell fly - gethin variation
+1136,UpperBody,dumbbell bench press-
+1137,UpperBody,decline dumbbell fly and press
+1138,UpperBody,incline dumbbell fly and press
+1139,UpperBody,single-arm decline dumbbell bench press
+1140,UpperBody,single-arm incline dumbbell bench press
+1141,UpperBody,incline dumbbell press - gethin variation
+1142,UpperBody,dumbbell chest press - gethin variation
+1143,UpperBody,dumbbell floor press - gethin variation
+1144,UpperBody,decline dumbbell press - gethin variation
+1145,UpperBody,dumbbell chest fly
+1146,UpperBody,machine rear delt fly
+1147,UpperBody,am dumbbell bench press
+1148,UpperBody,up incline dumbbell press
+1149,UpperBody,up incline dumbbell fly
+1150,UpperBody,push-up to belly touch
+1151,UpperBody,single-arm dumbbell floor press
+1152,UpperBody,weighted push-up
+1153,UpperBody,standing dumbbell shoulder press
+1154,UpperBody,chest incline dumbbell fly
+1155,UpperBody,chest incline dumbbell bench press
+1156,UpperBody,chest dumbbells-together press
+1157,UpperBody,chest dumbbells-together incline bench press
+1158,UpperBody,chest dumbbell fly
+1159,UpperBody,chest dumbbell bench press
+1160,UpperBody,chest 30-degree incline dumbbell fly
+1161,UpperBody,single-dumbbell push-up
+1162,UpperBody,bodyweight flyes
+1163,UpperBody,close-grip ez-bar bench press
+1164,UpperBody,chest dip
+1165,UpperBody,drop push
+1166,UpperBody,chain press
+1168,UpperBody,heavy bag thrust
+1169,UpperBody,decline explosive push-up
+1170,UpperBody,suspended chest fly
+1171,UpperBody,svend press
+1172,UpperBody,bar push-up smith machine
+1173,UpperBody,plate-weighted push-up
+1174,UpperBody,double-bar roll-out chest fly
+1175,UpperBody,plate dynamo push-up
+1176,UpperBody,towel drag two steps to push-up
+1177,UpperBody,val slide push-up/fly combo
+1178,UpperBody,bosu ball push-up
+1179,UpperBody,feet-elevated push-up on ball
+1180,UpperBody-Forearms,standing alternating band speed row
+1181,UpperBody-Forearms,band roundhouse elbow
+1182,UpperBody-Forearms,palms-down wrist curl over bench
+1183,UpperBody-Forearms,palms-up wrist curl over bench
+1184,UpperBody-Forearms,standing behind-the-back wrist curl
+1185,UpperBody-Forearms,seated finger curl
+1186,UpperBody-Forearms,seated palms-up wrist curl
+1187,UpperBody-Forearms,bottoms-up clean from the hang position
+1188,UpperBody-Forearms,seated one-arm dumbbell palms-up wrist curl
+1189,UpperBody-Forearms,palms-up dumbbell wrist curl over a bench
+1190,UpperBody-Forearms,seated palms-down wrist curl
+1191,UpperBody-Forearms,palms-down dumbbell wrist curl over a bench
+1192,UpperBody-Forearms,seated one-arm dumbbell palms-down wrist curl
+1193,UpperBody-Forearms,seated dumbbell palms-up wrist curl
+1194,UpperBody-Forearms,partner farmer's walk
+1195,UpperBody-Forearms,dumbbell suitcase carry
+1196,UpperBody-Forearms,suitcase dumbbell carry
+1197,UpperBody-Forearms,side plank with dumbbell external rotation
+1198,UpperBody-Forearms,wrist roller
+1199,UpperBody-Forearms,standing olympic plate hand squeeze
+1200,UpperBody-Forearms,plate pinch
+1201,UpperBody-Forearms,landmine press and catch
+1202,UpperBody-Forearms,plate halo
+1203,UpperBody-Forearms,bryant wrist curl
+1204,UpperBody-Forearms,seated two-arm palms-up low-pulley wrist curl
+1205,UpperBody-Forearms,cable wrist curl
+1206,UpperBody-Forearms,single-arm cable push-down
+1207,LowerBody-Glutes,hip extension with bands
+1208,LowerBody-Glutes,hip lift with band
+1210,LowerBody-Glutes,banded glute bridge
+1212,LowerBody-Glutes,barbell glute bridge
+1213,LowerBody-Glutes,barbell hip thrust
+1214,LowerBody-Glutes,kneeling squat
+1215,LowerBody-Glutes,un rear foot elevated split squat
+1216,LowerBody-Glutes,kettlebell thruster
+1217,LowerBody-Glutes,kettlebell swing
+1218,LowerBody-Glutes,un goblet squat
+1219,LowerBody-Glutes,single-arm triceps kick-back
+1220,Cardio,lateral high knees to quad touch jump
+1221,LowerBody-Glutes,dumbbell hip thrust
+1222,LowerBody-Glutes,glute bridge dumbbell floor press
+1223,LowerBody-Glutes,suspended hip thrust
+1224,LowerBody-Glutes,single-leg cable hip extension
+1225,LowerBody-Glutes,pull through
+1226,LowerBody-Glutes,cable rope pull-through deadlift
+1227,LowerBody-Glutes,cable pull-through
+1228,LowerBody-Glutes,legs glute-ham raise
+1229,LowerBody-Glutes,glute bridge
+1230,LowerBody-Glutes,single-leg glute bridge
+1231,LowerBody-Glutes,step-up with knee raise
+1232,LowerBody-Glutes,glute kickback
+1233,LowerBody-Glutes,standing hip extension
+1234,LowerBody-Glutes,neck bridge supine
+1235,LowerBody-Glutes,walking high knee
+1236,LowerBody-Glutes,walking butt kicks
+1237,LowerBody-Glutes,walking glute stretch
+1238,LowerBody-Glutes,lunge kick
+1239,LowerBody-Glutes,curtsy lunge
+1240,LowerBody-Glutes,side-lying leg lift
+1241,LowerBody-Glutes,progressive high knee
+1242,LowerBody-Glutes,glute-ham raise - gethin variation
+1243,LowerBody-Glutes,natural glute ham raise - gethin variation
+1245,LowerBody-Glutes,alternating donkey kick
+1246,LowerBody-Glutes,alternating slow step-down with chair
+1247,LowerBody-Glutes,right side iron cross
+1248,LowerBody-Glutes,single-leg bridge
+1249,LowerBody-Glutes,hi-low
+1250,LowerBody-Glutes,kick-back
+1251,LowerBody-Glutes,left side iron cross
+1252,LowerBody-Glutes,left side-kick
+1253,LowerBody-Glutes,leg lifts
+1254,LowerBody-Glutes,walking lunge
+1255,Cardio,high plyometric box jump
+1256,LowerBody-Glutes,barbell hip thrust-
+1257,LowerBody-Glutes,un glute bridge
+1258,LowerBody-Glutes,donkey kick
+1259,LowerBody-Glutes,hip raise with alternating kick
+1260,LowerBody-Glutes,left leg donkey kick
+1261,LowerBody-Glutes,diagonal right leg step-out to right knee-up
+1262,LowerBody-Glutes,right leg donkey kick
+1263,Cardio,butt tap to jump
+1264,Cardio,butt tap to jump-forward-jump-back
+1265,Cardio,traveling high knees to squat thrust
+1266,Cardio,butt kicker to high knees
+1267,LowerBody-Glutes,daisy cutter
+1268,LowerBody-Glutes,frogger
+1269,LowerBody-Glutes,hip raise with chest press
+1270,LowerBody-Glutes,bear crawl
+1271,LowerBody-Glutes,pigeon stretch
+1272,LowerBody-Glutes,levitating side kick-through
+1273,LowerBody-Glutes,legs hip thrust
+1274,LowerBody-Glutes,dumbbell single-leg hip thrust
+1275,LowerBody-Glutes,medicine ball duck walk
+1276,LowerBody-Glutes,exercise ball hip thrust
+1277,LowerBody-Glutes,downward facing balance
+1278,LowerBody-Hamstrings,band good morning (pull through)
+1279,LowerBody-Hamstrings,barbell deadlift
+1280,LowerBody-Hamstrings,sumo deadlift
+1281,LowerBody-Hamstrings,power clean
+1282,LowerBody-Hamstrings,good morning
+1283,LowerBody-Hamstrings,barbell stiff-legged deadlift
+1284,LowerBody-Hamstrings,romanian deadlift
+1285,LowerBody-Hamstrings,sumo deadlift with chains
+1286,LowerBody-Hamstrings,sumo deadlift with bands
+1287,LowerBody-Hamstrings,good morning off pins
+1288,LowerBody-Hamstrings,stiff-legged deadlift
+1289,LowerBody-Hamstrings,snatch pull
+1290,LowerBody-Hamstrings,hanging bar good morning
+1291,LowerBody-Hamstrings,reverse band sumo deadlift
+1292,LowerBody-Hamstrings,legs sumo deadlift
+1293,LowerBody-Hamstrings,kettlebell pass-through lunge
+1294,LowerBody-Hamstrings,kettlebell one-legged deadlift
+1295,LowerBody-Hamstrings,single-arm kettlebell clean
+1296,LowerBody-Hamstrings,single-leg kettlebell deadlift
+1297,LowerBody-Hamstrings,romanian deadlift with kettlebell
+1298,LowerBody-Hamstrings,single-arm kettlebell swing
+1299,LowerBody-Hamstrings,kettlebell dead clean
+1300,LowerBody-Hamstrings,alternating hang clean
+1301,LowerBody-Hamstrings,one-arm open palm kettlebell clean
+1302,LowerBody-Hamstrings,open palm kettlebell clean
+1303,LowerBody-Hamstrings,kettlebell hang clean
+1304,LowerBody-Hamstrings,double kettlebell alternating hang clean
+1305,LowerBody-Hamstrings,romanian deadlift with dumbbells
+1306,LowerBody-Hamstrings,stiff-legged dumbbell deadlift
+1307,LowerBody-Hamstrings,vertical swing
+1308,LowerBody-Hamstrings,dumbbell fix dumbbell swing
+1309,LowerBody-Hamstrings,dumbbell lying hamstring curl
+1310,LowerBody-Hamstrings,legs dumbbell stiff-legged deadlift
+1311,Cardio,box jump
+1312,Cardio,sled push-
+1313,LowerBody-Hamstrings,suspended leg curl
+1314,Cardio,box skip
+1315,LowerBody-Hamstrings,hamstring slide
+1316,LowerBody-Hamstrings,seated band hamstring curl
+1317,LowerBody-Hamstrings,lying cable leg curl
+1318,LowerBody-Hamstrings,standing cable leg curl
+1319,LowerBody-Hamstrings,lying leg curls
+1320,LowerBody-Hamstrings,glute ham raise
+1321,LowerBody-Hamstrings,reverse hyperextension
+1322,LowerBody-Hamstrings,seated leg curl
+1323,LowerBody-Hamstrings,standing leg curl
+1324,LowerBody-Hamstrings,smith machine stiff-legged deadlift
+1325,LowerBody-Hamstrings,lying leg curl - gethin variation
+1326,LowerBody-Hamstrings,paul carter leg extension
+1327,LowerBody-Hamstrings,lying leg curl
+1328,LowerBody-Hamstrings,seated hamstring curl - gethin variation
+1329,LowerBody-Hamstrings,single-leg lying leg curl
+1330,LowerBody-Hamstrings,leg curl
+1331,LowerBody-Hamstrings,leg extension - gethin variation
+1332,LowerBody-Hamstrings,single-leg leg extension-
+1333,LowerBody-Hamstrings,lying hamstring curls - gethin variation
+1334,LowerBody-Hamstrings,am seated hamstring curl
+1335,LowerBody-Hamstrings,up hamstring curl
+1336,LowerBody-Hamstrings,legs leg extension
+1337,LowerBody-Hamstrings,legs seated leg curl
+1338,LowerBody-Hamstrings,natural glute ham raise
+1339,LowerBody-Hamstrings,linear acceleration wall drill
+1340,Cardio,knee tuck jump
+1341,LowerBody-Hamstrings,moving claw series
+1342,LowerBody-Hamstrings,prone manual hamstring
+1343,LowerBody-Hamstrings,hurdle hops
+1344,LowerBody-Hamstrings,linear 3-part start technique
+1345,LowerBody-Hamstrings,boss everline 10-yard sprints
+1346,LowerBody-Hamstrings,alternating cross lunge
+1347,LowerBody-Hamstrings,alternating front kick
+1348,LowerBody-Hamstrings,alternating sprawl kick-through
+1349,LowerBody-Hamstrings,alternating step-back
+1350,LowerBody-Hamstrings,alternating step-up with chair
+1351,LowerBody-Hamstrings,right knee-up
+1352,LowerBody-Hamstrings,low lunge with external twist
+1353,LowerBody-Hamstrings,ninja crawl
+1354,LowerBody-Hamstrings,pigeon stretch
+1355,LowerBody-Hamstrings,single-leg deadlift walk
+1356,LowerBody-Hamstrings,hamstring slide
+1357,LowerBody-Hamstrings,legs walking lunge
+1358,LowerBody-Hamstrings,glute ham raise-
+1359,LowerBody-Hamstrings,exercise ball leg curl
+1360,LowerBody-Hamstrings,ball hamstring hat trick
+1361,Back-Lats,band-assisted pull-up
+1362,Back-Lats,assisted chin-up
+1363,Back-Lats,un band assisted pull-up pronated
+1364,Back-Lats,un band assisted pull-up neutral
+1365,Back-Lats,un band assisted pull-up supinated
+1366,Back-Lats,monster band face-pull hold
+1367,Back-Lats,single-arm band low row
+1368,Back-Lats,bent-arm barbell pull-over
+1369,Back-Lats,barbell pull-over to press
+1370,Back-Lats,single-arm barbell bent-over row
+1371,Back-Lats,reverse barbell row
+1372,Back-Lats,side kick-through to kettlebell high pull
+1373,Back-Lats,alternating kettlebell snatch
+1374,Back-Lats,alternating kettlebell swing
+1375,Back-Lats,american kettlebell swing
+1376,Back-Lats,double-kettlebell standing clean
+1377,Back-Lats,kettlebell swing high pull
+1378,Back-Lats,kettlebell swing-clean-press combo
+1379,Back-Lats,kettlebell swing-clean-press-row combo
+1380,Back-Lats,single-arm kettlebell clean
+1382,Back-Lats,pjr pull-over-
+1383,Back-Lats,dumbbell seal row
+1384,Back-Lats,incline dumbbell row - gethin variation
+1385,Back-Lats,bent-over dumbbell row
+1386,Back-Lats,straight-arm dumbbell pull-over - gethin variation
+1387,Back-Lats,bent-over dumbbell row - gethin variation
+1388,Back-Lats,bent-over dumbbell rear delt fly
+1389,Back-Lats,band resisted dumbbell row
+1390,Back-Lats,right arm weighted half jack
+1391,Back-Lats,left arm weighted half jack
+1392,Back-Lats,renegade row
+1393,Back-Lats,renegade row with opposite foot step-out
+1394,Back-Lats,renegade row to weighted burpee
+1395,Back-Lats,weighted double-arm cross punch
+1396,Back-Lats,standing flat back row
+1397,Back-Lats,dumbbell isometric row hold
+1398,Back-Lats,dumbbell renegade row
+1399,Back-Lats,bent-over row to rear-delt raise
+1400,Back-Lats,bent-over reverse fly
+1401,Back-Lats,weighted pull-up
+1402,Back-Lats,rocky pull-ups/pulldowns
+1403,Back-Lats,gironda sternum chins
+1404,Back-Lats,floor rope climb
+1405,Back-Lats,around-the-world pull-up
+1406,Back-Lats,l-sit chin-up
+1407,Back-Lats,back flyes - gethin variation
+1408,Back-Lats,incline straight-arm pull-over
+1409,Back-Lats,machine high row
+1410,Back-Lats,am t-bar row
+1411,Back-Lats,assisted single-arm pull-up
+1412,Back-Lats,assisted single-arm chin-up
+1413,Back-Lats,renegade punch-under
+1414,Back-Lats,renegade row to split jump
+1415,Back-Lats,dirty dog to renegade row
+1416,Back-Lats,renegade row to side punch to forward punch
+1417,Back-Lats,standing dumbbell knee crunch
+1418,Back-Lats,close-grip pull-down
+1419,Back-Lats,shotgun row
+1420,Back-Lats,close-grip front lat pulldown
+1421,Back-Lats,straight-arm rope pull-down
+1422,Back-Lats,lat pull-down
+1423,Back-Lats,straight-arm pulldown
+1424,Back-Lats,single-arm kneeling lat pull-down
+1425,Back-Lats,elevated cable rows
+1426,Back-Lats,full range-of-motion lat pulldown
+1427,Back-Lats,kneeling lat pull-down
+1428,Back-Lats,behind-the-neck pull-down
+1429,Back-Lats,straight-arm cable pull-over
+1430,Back-Lats,cable straight-arm pulldown - gethin variation
+1431,Back-Lats,rope lat pull-down - gethin variation
+1432,Back-Lats,straight-arm pull-down - gethin variation
+1433,Back-Lats,high-cable standing row
+1434,Back-Lats,lat pull-down - gethin variation
+1435,Back-Lats,wide-grip lat pull-down - gethin variation
+1436,Back-Lats,behind-the-neck pull-down - gethin variation
+1437,Back-Lats,single-arm cable row - gethin variation
+1438,Back-Lats,scapular rows
+1439,Back-Lats,standing v-grip cable rows
+1440,Back-Lats,am close-grip pull-down
+1441,Back-Lats,am wide-grip pull-down
+1442,Back-Lats,up lat pull-down
+1443,Back-Lats,reverse-grip lat pull-down
+1444,Back-Lats,machine seated row
+1445,Back-Lats,machine-assisted pull-up
+1446,Back-Lats,single-arm pull-down
+1447,Back-Lats,chest-supported smith machine row - gethin variation
+1448,Back-Lats,single-arm machine high row
+1449,Back-Lats,machine pull-over - gethin variation
+1450,Back-Lats,seated machine row - gethin variation
+1451,Back-Lats,wide-grip machine row
+1452,Back-Lats,lat pull-down
+1453,Back-Lats,robertson half-kneeling landmine press
+1454,Back-Lats,pullups
+1455,Back-Lats,pull-up
+1456,Back-Lats,muscle up
+1457,Back-Lats,rope climb
+1458,Back-Lats,wide-grip rear pull-up
+1459,Back-Lats,side to side chins
+1460,Back-Lats,neutral-grip pull-up
+1461,Back-Lats,kipping muscle up
+1462,Back-Lats,burpee to pull-up
+1463,Back-Lats,negative pull-up
+1465,Back-Lats,superman lat pull
+1466,Back-Lats,am pull-up
+1467,Back-Lats,up chin-up
+1468,Back-Lats,alternating forward and side punch
+1469,Back-Lats,jump to pull-up
+1470,Back-Lats,bent-over scapular slide
+1471,Back-Lats,iron cross stretch
+1472,Back-Lats,standing lat stretch
+1473,Back-Lats,pull-up
+1474,Back-Lats,medicine ball slam
+1475,Back-Lats,catch and overhead throw
+1476,Back-Lats,bent-over medicine ball slam
+1477,Core-Back,band good morning
+1478,Core-Back,monster banded good morning
+1479,Core-Back,band deadlift
+1480,Core-Back,barbell deficit deadlift
+1481,Core-Back,deadlift with bands
+1482,Core-Back,deadlift with chains
+1483,Core-Back,rack pull with bands
+1484,Core-Back,rack pull
+1485,Core-Back,seated good mornings
+1486,Core-Back,stiff leg barbell good morning
+1487,Core-Back,reverse band deadlift
+1488,Core-Back,paul carter romanian deadlift
+1491,Core-Back,barbell deadlift-
+1492,Core-Back,deadlift - gethin variation
+1493,Core-Back,barbell good morning
+1494,Core-Back,up conventional deadlift
+1495,Core-Back,day back barbell rack pull
+1496,Core-Back,sumo deadlift high pull
+1497,Core-Back,kettlebell deadlift
+1499,Core-Back,kv romanian deadlift with kettlebell
+1500,Core-Back,kettlebell good morning
+1501,Core-Back,kettlebell romanian deadlift
+1502,Core-Back,kettlebell staggered-stance deadlift
+1503,Core-Back,dumbbell fix dumbbell deadlift
+1504,Core-Back,dumbbell skier
+1505,Core-Back,dumbbell romanian deadlift
+1506,Core-Back,stiff-legged dumbbell deadlift - gethin variation
+1508,Core-Back,slow deadlift
+1509,Core-Back,deadlift to overhead press
+1510,Core-Back,staggered-stance deadlift
+1511,Core-Back,deadlift to front raise
+1512,Core-Back,deadlift to chest press
+1513,Core-Back,deadlift to squat thrust
+1514,Core-Back,deadlift to biceps curl
+1515,Core-Back,dumbbell kickstand deadlift
+1516,Core-Back,single-leg stiff-legged deadlift to row
+1517,Core-Back,dumbbell deadlift
+1518,Core-Back,dumbbell deadlift to dumbbell upright row
+1519,Core-Back,partner flat-bench back extension
+1520,Core-Back,partner bench back extension
+1521,Core-Back,rack pull - gethin variation
+1522,Core-Back,hex bar deadlift - gethin variation
+1523,Core-Back,deadlift
+1524,Core-Back,low-handle trap bar deadlift
+1525,Core-Back,neutral-grip lat pull-down
+1526,Core-Back,seated cable deadlift
+1527,Core-Back,cable stiff-legged deadlift
+1528,Core-Back,single-leg cable stiff-legged deadlift
+1529,Core-Back,banded dumbbell romanian deadlift
+1530,Core-Back,seated back extension
+1531,Core-Back,back extension
+1532,Core-Back,hyperextensions with no hyperextension bench
+1533,Core-Back,partner superman with alternating high-five
+1534,Core-Back,back extension
+1535,Core-Back,lower back stretch - yates variation
+1536,Core-Back,hyperextension - gethin variation
+1537,Core-Back,back extension - gethin variation
+1538,Core-Back,banana stretch
+1539,Core-Back,child's pose
+1540,Core-Back,cobra
+1541,Core-Back,cobra with arm retraction
+1542,Core-Back,dive-bomber
+1543,Core-Back,downward-facing dog pose
+1544,Core-Back,downward dog to left leg extension to warrior pose
+1545,Core-Back,downward dog to right leg extension to warrior pose
+1546,Core-Back,spine twist
+1548,Core-Back,rag doll
+1549,Core-Back,upward-facing dog pose
+1550,Core-Back,superman-
+1551,Core-Back,weighted back extension
+1552,Core-Back,alternating superman
+1553,Core-Back,swimmer
+1554,Core-Back,exercise ball weighted hyperextension
+1555,Core-Back,exercise ball rear delt fly
+1556,Core-Back,lying rear delt y
+1557,Core,partner side plank band row
+1558,Core-Back,band-assisted chin-up
+1559,Core-Back,back band-assisted pull-up
+1560,Core-Back,back reverse-grip band-assisted pull-up
+1561,Core-Back,band bent-over row
+1562,Core-Back,heavy band bent-over row
+1563,Core-Back,reverse-grip bent-over row
+1564,Core-Back,one-arm long bar row
+1565,Core-Back,bent over barbell row
+1566,Core-Back,yates row reverse grip
+1567,Core-Back,pendlay row
+1568,Core-Back,straight bar bench mid rows
+1569,Core-Back,barbell seal row
+1570,Core-Back,yates row
+1571,Core-Back,plate row
+1572,Core-Back,barbell deadlift bent row complex
+1573,Core-Back,single-arm landmine row
+1574,Core-Back,t-bar row
+1575,Core-Back,deficit deadlift
+1576,Core-Back,bent-over barbell row - gethin variation
+1577,Core-Back,barbell bent-over row
+1578,Core-Back,un barbell rack pull
+1579,Core-Back,un barbell scrape the rack
+1580,Core-Back,barbell deadlift bent-over row complex
+1581,Core-Back,back barbell deadlift
+1582,Core-Back,back bent-over barbell row
+1583,Core-Back,back t-bar row
+1584,Core-Back,back underhand bent-over barbell row
+1585,Core-Back,kettlebell alternating renegade row
+1586,Core-Back,alternating kettlebell row
+1587,Core-Back,two-arm kettlebell row
+1588,Core-Back,kettlebell bent-over row to clean
+1589,Core-Back,up deficit kettlebell stiff-legged deadlift
+1590,Core-Back,dagger-grip double-kettlebell gorilla row
+1591,Core-Back,double-kettlebell swing clean
+1592,Core-Back,single-arm kettlebell row-
+1593,Core-Back,ascending-rep swing-squat complex
+1594,Core-Back,one-arm dumbbell row
+1595,Core-Back,incline dumbbell row
+1596,Core-Back,bent over two-dumbbell row with palms in
+1597,Core-Back,man-maker
+1598,Core-Back,dumbbell bent-over row
+1599,Core-Back,middle back shrug
+1600,Core-Back,dumbbell pull-over to skullcrusher
+1601,Core-Back,dumbbell fix single-arm dumbbell row
+1602,Core-Back,dumbbell fix bent-over dumbbell row
+1603,Core-Back,dumbbell seal row - gethin variation
+1604,Core-Back,decline dumbbell chest fly
+1606,Core-Back,alternating bent-over quick row
+1608,Core-Back,am single arm row
+1609,Core-Back,dumbbell stiff-legged deadlift
+1610,Core-Back,single-arm bench dumbbell row
+1611,Core-Back,un bent-over dumbbell row
+1612,Core-Back,un dumbbell rdl
+1613,Core-Back,un chest supported row
+1614,Core-Back,bent-over renegade row
+1615,Core-Back,back bent-over dumbbell row
+1616,Core-Back,back dumbbell pull-over
+1617,Core-Back,back incline dumbbell row
+1618,Core-Back,back single-arm dumbbell row
+1619,Core-Back,back single-arm dumbbell swing row
+1620,Core-Back,t-bar row with handle
+1622,Core-Back,alternating sit-through with crunch
+1623,Core-Back,seated cable rows
+1624,Core-Back,upside-down pull-up
+1625,Core-Back,smith machine inverted row
+1626,Core-Back,lying t-bar row
+1627,Core-Back,suspended row
+1628,Core-Back,inverted row with straps
+1629,Core-Back,one arm chin-up
+1630,Core-Back,sled row
+1631,Core-Back,paul carter t-bar row
+1632,Core-Back,single-arm bent-over rear delt raise - gethin variation
+1633,Core-Back,back plate hyperextension
+1635,Core-Back,single-arm cable seated row
+1636,Core-Back,paul carter lat pull-down
+1638,Core-Back,one-arm cable read delt fly - gethin variation
+1639,Core-Back,up seated cable row
+1640,Core-Back,up cable straight-arm pull-down
+1641,Core-Back,un cable pull-through
+1642,Core-Back,back close-grip seated cable row
+1643,Core-Back,back incline face-up cable pull-down
+1644,Core-Back,back kneeling high cable pull-down
+1645,Core-Back,back leaning v-bar pull-down
+1646,Core-Back,back reverse-grip pull-down
+1647,Core-Back,back standing low cable bar row
+1648,Core-Back,back standing low cable rope row
+1649,Core-Back,back straight-arm bar pull-down
+1650,Core-Back,back straight-arm rope pull-down
+1651,Core-Back,back wide-grip behind-the-head pull-down
+1652,Core-Back,back wide-grip pull-down
+1653,Core-Back,back wide-grip seated cable row
+1654,Cardio,rower
+1656,Core-Back,smith machine bent-over row
+1657,Core-Back,leverage high row
+1658,Core-Back,machine low row
+1659,Core-Back,standing lat pull-down
+1660,Core-Back,back machine seated row
+1661,Core-Back,back smith machine push-up
+1662,Core-Back,mixed grip chin
+1664,Core-Back,angel stretch
+1665,Core-Back,foam roll upper back
+1666,Core-Back,back neutral-grip pull-down
+1667,Core-Back,back pull-up
+1668,Core-Back,back reverse-grip pull-up
+1669,Core-Back,medicine ball overhead power throw
+1670,Back-Traps,upright row - with bands
+1671,Back-Traps,band seated row
+1672,Back-Traps,barbell shrug
+1673,Back-Traps,barbell behind-the-back shrug
+1674,Back-Traps,single-arm inverted row
+1675,Back-Traps,kettlebell sumo deadlift high pull
+1676,Back-Traps,standing dumbbell shrug
+1677,Back-Traps,standing dumbbell upright row
+1678,Back-Traps,dumbbell pull-over
+1679,Back-Traps,standing dumbbell shrug - gethin variation
+1680,Back-Traps,single-arm dumbbell row
+1681,Back-Traps,cable straight-bar upright row
+1682,Back-Traps,cable shrug
+1683,Back-Traps,smith machine shrug
+1684,Back-Traps,leverage shrug
+1685,Back-Traps,calf-machine shoulder shrug
+1686,Back-Traps,smith machine behind-the-back shrug
+1687,Back-Traps,smith machine upright row
+1688,Back-Traps,machine low row-
+1689,Back-Traps,machine shrug - gethin variation
+1690,Back-Traps,smith machine single-arm shrug
+1691,Back-Traps,scapular pull-up
+1692,LowerBody,single-leg depth squat
+1693,LowerBody,squats - with bands
+1694,LowerBody,hip flexion with band
+1695,LowerBody,forward band walk
+1696,LowerBody,boss everline resistance-band pull sprint
+1697,Cardio,banded jump squat
+1698,LowerBody,speed box squat
+1699,LowerBody,banded squat toe tap
+1700,LowerBody,up band abducted squat
+1702,LowerBody,banded squat hold-pulse-jump complex
+1703,LowerBody,band split squat
+1704,LowerBody,band front squat
+1705,LowerBody,squat hold with band pull-apart
+1706,LowerBody,banded squat toe tap
+1707,LowerBody,band overhead squat
+1708,LowerBody,barbell full squat
+1709,LowerBody,barbell back squat to box
+1710,LowerBody,barbell walking lunge
+1711,LowerBody,narrow-stance squat
+1712,LowerBody,box squat with bands
+1713,LowerBody,weighted jump squat
+1714,LowerBody,squat with chains
+1715,LowerBody,barbell squat
+1716,LowerBody,barbell front squat
+1717,LowerBody,barbell forward lunge
+1718,LowerBody,smith machine box squat
+1719,LowerBody,barbell step-up
+1720,LowerBody,barbell bulgarian split squat
+1721,LowerBody,barbell hack squat
+1722,LowerBody,hack squat
+1723,LowerBody,barbell thruster
+1724,LowerBody,barbell back squat
+1725,LowerBody,zercher squat
+1726,LowerBody,jefferson squats
+1727,LowerBody,barbell side split squat
+1728,LowerBody,barbell speed squat
+1729,LowerBody,single-arm side deadlift
+1730,LowerBody,barbell squat to a bench
+1731,LowerBody,front barbell squat to a bench
+1732,LowerBody,barbell reverse lunge
+1733,LowerBody,close-stance dumbbell front squat
+1734,LowerBody,front squat (clean grip)
+1735,LowerBody,barbell front squat to back squat
+1736,LowerBody,squat jerk
+1737,LowerBody,barbell front-to-back squat
+1738,LowerBody,box squat with chains
+1739,LowerBody,front squat (bodybuilder)
+1740,LowerBody,barbell step-down reverse lunge
+1741,LowerBody,squat with bands
+1742,LowerBody,reverse band power squat
+1743,LowerBody,paul carter back squat
+1744,LowerBody,paul carter barbell split squat
+1745,LowerBody,high-bar back squat
+1746,LowerBody,barbell front squat
+1747,LowerBody,squat - gethin variation
+1748,LowerBody,front-to-back barbell squat
+1749,LowerBody,barbell lunge - gethin variation
+1750,LowerBody,rack deadlift - gethin variation
+1751,LowerBody,barbell squat - gethin variation
+1752,LowerBody,barbell good morning - gethin variation
+1753,LowerBody,am barbell squat
+1754,LowerBody,plyometric power clean
+1755,LowerBody,banded split jerk
+1756,LowerBody,up squat
+1757,LowerBody,un barbell back squat
+1758,LowerBody,un barbell box squat
+1759,LowerBody,un barbell front squat
+1760,LowerBody,kv bulgarian split squat
+1761,LowerBody,barbell back squat
+1763,LowerBody,legs barbell back squat
+1764,LowerBody,legs barbell front squat
+1765,LowerBody,barbell back squats
+1766,LowerBody,front squats with two kettlebells
+1767,LowerBody,kettlebell pistol squat
+1768,LowerBody,goblet squat
+1769,LowerBody,kettlebell curtsy lunge
+1770,LowerBody,single-arm kettlebell overhead squat
+1771,LowerBody,kettlebell side squat
+1772,LowerBody,kettlebell sumo squat
+1773,LowerBody,kettlebell thruster progression
+1774,LowerBody,kettlebell power clean
+1775,LowerBody,kettlebell fire feet
+1776,LowerBody,single arm overhead kettlebell squat
+1777,LowerBody,pulsing goblet squat
+1778,LowerBody,double-kettlebell alternating lunge to clean
+1780,LowerBody,kettlebell sumo squat
+1781,LowerBody,double-kettlebell front squat
+1782,LowerBody,kettlebell squat clean
+1783,LowerBody,single-arm kettlebell front squat
+1784,LowerBody,kettlebell front rack lunge
+1785,LowerBody,turkish get-up
+1786,LowerBody,single-leg romanian deadlift
+1787,LowerBody,single-arm kettlebell front squat
+1788,LowerBody,kettlebell goblet squat
+1792,LowerBody,kettlebell swing transfer
+1793,LowerBody,dumbbell goblet squat-
+1794,LowerBody,robertson kettlebell jump
+1795,LowerBody,alternating kettlebell squat clean
+1796,LowerBody,banded double-kettlebell squat pulse
+1797,LowerBody,double-kettlebell ballin' lunge
+1798,LowerBody,double-kettlebell front rack lunge
+1799,LowerBody,double-kettlebell front squat
+1800,Cardio,explosive kettlebell jump squat
+1802,LowerBody,kettlebell reverse lunge switch grip
+1803,LowerBody,kettlebell reverse lunge to kneeling press
+1804,LowerBody,kettlebell sumo squat pulse
+1805,LowerBody,reverse lunge to single-leg kettlebell deadlift
+1806,LowerBody,kettlebell goblet-squat-deadlift complex
+1807,LowerBody,kettlebell squat-press-deadlift complex
+1808,LowerBody,goblet squats
+1809,LowerBody,dumbbell goblet squat
+1810,LowerBody,dumbbell squat
+1811,LowerBody,dumbbell lunges
+1812,LowerBody,dumbbell reverse lunge
+1813,LowerBody,split squat with dumbbells
+1814,LowerBody,dumbbell sumo squat
+1815,Cardio,dumbbell seated box jump
+1816,LowerBody,dumbbell step-up
+1817,LowerBody,dumbbell walking lunge
+1818,LowerBody,dumbbell squat to a bench
+1819,LowerBody,dumbbell thruster
+1820,LowerBody,dumbbell front squat
+1821,LowerBody,single-arm dumbbell overhead squat
+1822,LowerBody,dumbbell lateral hop
+1823,LowerBody,dumbbell lunge with biceps curl
+1824,LowerBody,dumbbell pistol squat
+1825,LowerBody,dumbbell squat snatch
+1826,LowerBody,dumbbell alternating lunge
+1827,Cardio,dumbbell jump squat
+1828,LowerBody,dumbbell side lunge
+1829,Cardio,boss everline dumbbell lunge jump
+1830,LowerBody,dumbbell fix dumbbell split squat
+1831,LowerBody,single-leg dumbbell romanian deadlift
+1832,LowerBody,dumbbell fix dumbbell alternating reverse lunge
+1833,LowerBody,dumbbell fix turkish get-up
+1834,LowerBody,seesaw lunge
+1835,LowerBody,dumbbell front squat
+1836,LowerBody,dumbbell split squat
+1837,LowerBody,dumbbell deadlift
+1838,LowerBody,single-arm stiff-legged deadlift
+1839,LowerBody,dumbbell overhead squat
+1840,LowerBody,dumbbell squat
+1842,LowerBody,single-arm dumbbell snatch
+1843,LowerBody,kv dumbbell lunges
+1844,LowerBody,squat to biceps curl
+1845,LowerBody,burpee to biceps curl
+1846,LowerBody,slow weighted reverse lunge
+1847,LowerBody,slow weighted plie squat
+1848,Cardio,weighted lunge jump with biceps curl
+1849,LowerBody,left reverse lunge chest press to left knee-up chest press
+1850,Cardio,weighted lunge jump with chest press
+1851,LowerBody,weighted half jack to biceps curl
+1852,LowerBody,weighted half jack to chest press
+1853,Cardio,weighted narrow squat jump
+1854,LowerBody,diagonal deadlift
+1855,LowerBody,weighted burpee to triceps press
+1856,LowerBody,squat thrust overhead press
+1857,Cardio,weighted burpee to chest press
+1858,LowerBody,squat to right-arm overhead press
+1859,LowerBody,right lunge jump with right overhead press
+1860,LowerBody,left lunge jump with left overhead press
+1861,LowerBody,heavy hip drive
+1862,LowerBody,squat to left-arm overhead press
+1863,Cardio,weighted lunge jump to floor lunge jump
+1864,Cardio,alternating weighted lunge jump to chest press
+1865,Cardio,weighted burpee to overhead alternating reverse lunge
+1866,Cardio,weighted 180 jump to chest press
+1867,LowerBody,alternating side squat overhead press
+1868,LowerBody,right lunge with right biceps curl
+1869,LowerBody,left lunge with left biceps curl
+1870,LowerBody,squat thrust to alternating front raise
+1871,LowerBody,dumbbell racked reverse lunge
+1872,LowerBody,dumbbell reverse lunge
+1873,LowerBody,single-arm dumbbell snatch-
+1874,LowerBody,dumbbell step-up
+1875,LowerBody,single-arm dumbbell front squat
+1877,LowerBody,3d dumbbell lunge
+1878,Cardio,dumbbell burpee
+1879,Cardio,dumbbell jump squat with rotation
+1880,LowerBody,dumbbell wide squat to rack
+1881,LowerBody,reverse lunge to high pull
+1882,LowerBody,reverse lunge with overhead raise
+1883,LowerBody,squat to triceps extension
+1884,LowerBody,legs dumbbell goblet squat
+1885,LowerBody,legs dumbbell squat
+1886,LowerBody,dumbbell step-down reverse lunge
+1887,LowerBody,single leg push-off
+1888,Cardio,bicycling
+1889,LowerBody,hex-bar deadlift
+1890,Cardio,skating
+1891,LowerBody,weighted sissy squat
+1893,LowerBody,front cone hops (or hurdle hops)
+1894,LowerBody,weighted squat
+1895,LowerBody,bench skip
+1896,LowerBody,barbell squat with plate slide
+1897,LowerBody,suspended split squat
+1898,LowerBody,burpee over barbell
+1899,LowerBody,dumbbell walking lunge-
+1900,Cardio,single-leg box jump
+1901,Cardio,single-leg hop progression
+1902,Cardio,single-cone sprint drill
+1903,Cardio,single-leg stride jump
+1904,Cardio,trap bar jump
+1905,Cardio,single-leg lateral hop
+1906,Cardio,burpee box-jumps
+1907,LowerBody,single-leg knee-tap squat
+1908,LowerBody,barbell squat to a box
+1909,Cardio,double under
+1910,Cardio,plate push
+1911,LowerBody,hybrid deadlift
+1912,LowerBody,boss everline suspension side run
+1913,LowerBody,boss everline lunge sled push
+1914,LowerBody,squat bottom position hold
+1915,LowerBody,squat jump
+1916,LowerBody,landmine squat
+1917,LowerBody,dumbbell bulgarian split squat
+1918,LowerBody,towel alternating prisoner reverse lunge
+1919,LowerBody,weighted burpee to belly touch
+1920,LowerBody,weighted burpee to front punch
+1921,LowerBody,weighted low squat punch
+1922,LowerBody,weighted hook punch to squat thrust
+1923,LowerBody,towel alternating side lunge squat
+1924,LowerBody,weighted burpee to renegade side punch
+1925,LowerBody,weighted reverse lunge to knee-up overhead press
+1926,Cardio,lunge jump with overhead press
+1927,Cardio,weighted burpee to belly touch to standing t
+1928,Cardio,weighted squat jump
+1929,LowerBody,weighted plie squat
+1930,LowerBody,heels-elevated sissy squat
+1931,Cardio,squat jump to overhead press
+1932,Cardio,180 jump to overhead press
+1933,Cardio,weighted burpee to row
+1934,Cardio,weighted burpee to 180 jump
+1935,Cardio,weighted 180 jump
+1936,Cardio,weighted narrow-mid-wide hop
+1937,Cardio,alternating weighted diagonal burpee
+1938,Cardio,towel burpee to push-up
+1939,LowerBody,towel right side squat
+1940,LowerBody,sprint-drag-carry
+1941,LowerBody,cable hip adduction
+1942,LowerBody,cable deadlifts
+1943,LowerBody,kv cable squat
+1944,LowerBody,single-leg press
+1945,Cardio,stair climber
+1946,LowerBody,leg press
+1947,Cardio,elliptical trainer
+1948,LowerBody,narrow-stance leg press
+1949,LowerBody,narrow stance hack squats
+1950,Cardio,stairmaster
+1951,LowerBody,machine squat
+1952,LowerBody,smith machine back squat
+1953,LowerBody,leg extensions
+1954,Cardio,treadmill running
+1955,Cardio,stationary bike
+1956,Cardio,treadmill jogging
+1957,Cardio,recumbent bike
+1958,LowerBody,smith machine leg press
+1959,LowerBody,lying machine squat
+1960,LowerBody,seated leg press
+1961,LowerBody,smith machine pistol squat
+1962,LowerBody,leverage deadlift
+1963,LowerBody,leg press-
+1965,LowerBody,leg extensions - gethin variation
+1966,LowerBody,seated leg press-
+1967,LowerBody,smith machine front squat
+1968,LowerBody,machine deadlift - gethin variation
+1969,LowerBody,single-leg hack squat
+1970,LowerBody,narrow-stance hack squat
+1971,LowerBody,alternating single-leg curl - gethin variation
+1972,LowerBody,stiff-legged deadlift - gethin variation
+1973,LowerBody,single-leg press - gethin variation
+1974,LowerBody,hack squat-
+1975,LowerBody,smith machine lunge squat
+1976,LowerBody,hack squat - gethin variation
+1977,LowerBody,leg press - gethin variation
+1978,LowerBody,am leg press
+1979,LowerBody,leg extension
+1980,LowerBody,up quad extension
+1981,LowerBody,up single-leg press
+1982,LowerBody,up leg press
+1983,LowerBody,pop squat on leg press
+1985,LowerBody,single-leg leg press
+1987,LowerBody,legs feet-high leg press
+1988,LowerBody,legs leg press
+1989,LowerBody,legs leg press calf raise
+1990,LowerBody,legs lying leg curl
+1991,LowerBody,legs machine hack squat
+1992,LowerBody,legs single-leg leg extension
+1993,LowerBody,legs single-leg leg press
+1994,LowerBody,legs single-leg lying leg curl
+1995,LowerBody,legs smith machine split squat
+1996,LowerBody,legs smith machine squat
+1997,Cardio,jumping rope
+1998,LowerBody,forward lunge
+1999,LowerBody,side-to-side box skip
+2000,LowerBody,bodyweight squat
+2001,LowerBody,broad jump
+2002,Cardio,burpee
+2003,Cardio,trail running/walking
+2004,Cardio,scissors jump
+2005,Cardio,jumping jack-
+2006,Cardio,arms-crossed jump squat
+2007,LowerBody,bodyweight reverse lunge
+2008,LowerBody,alien squat
+2009,Cardio,treadmill walking
+2010,LowerBody,bodyweight walking lunge
+2011,Cardio,walking high knees
+2012,LowerBody,lateral lunge
+2013,Cardio,jump squat
+2014,Cardio,over bench jump
+2015,Cardio,split jump
+2016,Cardio,90-degree jump squat
+2017,Cardio,skip
+2018,LowerBody,southpaw sprawl
+2019,LowerBody,stride jump crossover
+2020,Cardio,side standing long jump
+2021,LowerBody,wall squat
+2022,LowerBody,slide jump shot
+2023,LowerBody,sprawl frog kick
+2024,Cardio,lateral speed step
+2025,Cardio,side hop-sprint
+2026,Cardio,pop squat
+2027,Cardio,star jump
+2028,LowerBody,side lunge touching heel
+2029,Cardio,fast kick with arm circles
+2030,LowerBody,single-leg box squat
+2031,Cardio,defensive slide
+2032,Cardio,quick leap
+2033,Cardio,vertical mountain climber
+2034,LowerBody,reverse burpee
+2035,Cardio,football up-down
+2036,Cardio,jump lunge heel kick
+2037,Cardio,burpee box jump
+2038,Cardio,linear depth jump
+2039,Cardio,slow jog
+2040,Cardio,high knees
+2042,Cardio,square hop
+2043,Cardio,running lunge
+2044,Cardio,in-out jump squat
+2045,Cardio,gorilla squat
+2046,Cardio,burpee tuck jump
+2047,Cardio,speed skater
+2048,Cardio,jumping knee up-down
+2049,Cardio,jump lunge to feet jack
+2050,LowerBody,reverse lunge rotation
+2051,LowerBody,seal jack
+2052,LowerBody,kneeling quad thoracic stretch
+2053,LowerBody,single-leg squat with knee tap
+2054,Cardio,shuttle run
+2055,LowerBody,squat isometric hold
+2056,LowerBody,wall sit
+2057,LowerBody,walking lunge with hip extension
+2058,LowerBody,squat with alternating side leg raise
+2059,LowerBody,lateral squats
+2060,LowerBody,walking lunge with twist
+2061,LowerBody,boss everline backward lunge walk
+2062,LowerBody,reverse diagonal skaters
+2063,LowerBody,air squat
+2064,Cardio,tuck jump
+2065,Cardio,push-up sprawl tuck jump
+2066,Cardio,running lunge
+2067,Cardio,jumping lunge
+2068,Cardio,sprawl frog kick
+2069,Cardio,jump squat-
+2070,Cardio,sprinter burpee
+2071,Cardio,single-leg burpee
+2072,Cardio,gorilla squat
+2073,Cardio,banded compass jump squat
+2074,Cardio,in-out sprawl
+2075,Core-Abdominals,knee-tuck kick-up
+2076,LowerBody,bear crawl donkey kick
+2077,LowerBody,southpaw sprawl with push-up
+2078,LowerBody,bouncing lunge
+2079,LowerBody,bodyweight squat - gethin variation
+2080,LowerBody,alternating lunge
+2081,LowerBody,bodyweight walking lunge - gethin variation
+2082,LowerBody,seated quad contraction
+2083,LowerBody,squat with alternating leg extension
+2085,Cardio,alternating jump lunge
+2086,LowerBody,alternating lunge-in-place
+2087,LowerBody,alternating side lunge
+2088,LowerBody,sumo pulse
+2089,LowerBody,sumo squat
+2090,LowerBody,alternating side-kick
+2091,LowerBody,tuck-up burpee
+2093,LowerBody,bear stance fire hydrant
+2094,LowerBody,walking frankenstein
+2095,Cardio,wide jump squat
+2096,Cardio,boxer shuffle
+2098,LowerBody,bulgarian split squat on chair
+2100,LowerBody,alternating lunge push-up
+2101,LowerBody,duck walk
+2102,LowerBody,single-leg squat on chair
+2103,LowerBody,single-leg touchdown
+2104,LowerBody,speed skater
+2106,LowerBody,squat lunge
+2107,LowerBody,garland pose
+2108,Cardio,high knees
+2109,LowerBody,in-and-out squat
+2110,Cardio,in-and-out squat jump
+2112,Cardio,jumping knee-up
+2113,Cardio,jumping rope
+2114,LowerBody,right calf-spike sumo pulse
+2115,LowerBody,reverse lunge with kick
+2116,LowerBody,left knee-up
+2117,LowerBody,left-leg lunge and kick-out
+2118,LowerBody,mountain pose
+2119,Cardio,butt kickers
+2120,LowerBody,right-leg lunge and kick-out
+2121,LowerBody,sumo get-up
+2122,Cardio,am jump squat
+2123,LowerBody,am bodyweight squat
+2124,LowerBody,high knees sprawl drill
+2125,LowerBody,up bulgarian split squat
+2126,LowerBody,un forward lunge
+2127,LowerBody,un front foot elevated split squat
+2128,LowerBody,half-kneeling hip flexor stretch
+2129,Cardio,low depth jump
+2130,LowerBody,forward-to-reverse lunge
+2131,LowerBody,towel squat thrust
+2132,LowerBody,towel alternating prisoner squat
+2133,LowerBody,towel alternating lateral lunge
+2134,Cardio,squat pull-through jump
+2135,Cardio,180 jump
+2136,LowerBody,foot-elevated knee-up to squat
+2137,LowerBody,feet-elevated squat thrust
+2138,Cardio,hands-elevated lunge jump
+2139,Cardio,hands-elevated jack to split jump
+2140,LowerBody,hands-elevated wide squat thrust
+2141,LowerBody,hands-elevated squat thrust to split jack
+2143,LowerBody,squat pulse
+2144,UpperBody,jump-out push-up
+2145,LowerBody,alternating forward lunge
+2146,Cardio,burpee to jump
+2147,LowerBody,pilates single-leg stretch
+2148,LowerBody,alternating reverse prisoner lunge
+2149,Cardio,narrow-wide squat jump to 180 jump
+2150,Cardio,180 jump to lunge
+2151,Cardio,imaginary jump rope
+2152,Cardio,fast feet with hands up
+2153,LowerBody,hands-elevated alternating lunge jump
+2154,LowerBody,right split lunge
+2155,LowerBody,left split lunge
+2156,Cardio,plyometric jump
+2157,Cardio,quad touch jump
+2158,Cardio,skate
+2159,Cardio,lunge jump
+2160,LowerBody,flying squat thrust
+2161,Cardio,90-degree jump
+2162,Cardio,half jack to 180 jump
+2163,Cardio,quick feet to quad touch jump
+2164,Cardio,plyometric jump to 180 jump
+2165,LowerBody,standing heel click to hands down heel click
+2166,Cardio,burpee to 180 jump
+2167,LowerBody,traveling low jack to belly touch
+2168,Cardio,squat jump to alternating side lunge jump
+2169,LowerBody,low squat with low diagonal dumbbell punch
+2170,LowerBody,right leg hop to right reverse lunge
+2171,LowerBody,left leg hop to left reverse lunge
+2172,LowerBody,burpee to open stance
+2173,LowerBody,diagonal squat thrust to renegade forward punch
+2175,LowerBody,bear crawl to donkey kick
+2176,LowerBody,bear crawl to froggy push-up
+2177,LowerBody,bear crawl to shoulder tap
+2178,Cardio,burpee to tuck jump
+2179,Cardio,burpee to flying squat thrust to tuck jump
+2180,LowerBody,forward lunge to reverse lunge
+2181,Cardio,renegade lunge jump
+2182,Cardio,squat jump to lunge jump
+2183,LowerBody,prisoner reverse lunge
+2184,Cardio,wide-to-narrow squat jump
+2185,Cardio,donkey run
+2186,Cardio,weighted wide-to-narrow squat jump
+2187,LowerBody,wide-to-narrow donkey kick
+2188,LowerBody,mule kick
+2189,LowerBody,goal post to squat
+2190,LowerBody,frogger squat to heel click
+2191,Cardio,stair sprint
+2192,LowerBody,stair bear crawl
+2193,Cardio,burpee to flying squat thrust
+2194,LowerBody,flying squat thrust to push-up
+2195,LowerBody,foot-elevated step-to-lunge
+2196,Cardio,split lunge
+2197,Cardio,stair climb
+2198,Cardio,burpee to flying jack
+2199,LowerBody,right reverse lunge
+2200,LowerBody,left reverse lunge
+2201,Cardio,squat tap to hop
+2202,Cardio,squat tap to jump-forward-jump-back
+2203,LowerBody,squat hip drive
+2204,LowerBody,alternating double lunge hop
+2205,LowerBody,right reverse lunge to front kick
+2206,LowerBody,right leg forward lunge hop
+2207,LowerBody,right squat thrust
+2208,LowerBody,left reverse lunge to front kick
+2209,LowerBody,left leg forward lunge hop
+2210,Cardio,left side diagonal burpee
+2211,LowerBody,left squat thrust
+2212,LowerBody,wide squat thrust
+2213,Cardio,alternating single-leg hop to squat to 180 jump
+2214,Cardio,right lunge hop to chest press
+2215,Cardio,left lunge hop to overhead press
+2216,Cardio,180 jump hop forward hop back
+2217,LowerBody,right split squat
+2218,LowerBody,left split squat
+2219,Cardio,double squat pulse to 180 jump
+2220,LowerBody,towel left side squat
+2221,Cardio,alternating lunge jump
+2222,Cardio,lunge jump to squat jump
+2223,Cardio,burpee with belly touch
+2224,LowerBody,bootstrapper squat
+2225,Cardio,broad jump
+2226,LowerBody,lateral lunge
+2227,Cardio,lateral shuffle
+2229,LowerBody,spider lunge
+2230,LowerBody,spider lunge stretch
+2231,LowerBody,spider lunge with t-rotation
+2232,LowerBody,standing quad stretch
+2233,Cardio,vertical jump
+2235,Cardio,explosive high jump
+2238,Cardio,sprint
+2239,LowerBody,alternating curtsy lunge to squat
+2240,LowerBody,alternating curtsy lunge with high knee
+2241,LowerBody,alternating diagonal sprawl
+2242,LowerBody,alternating lateral sprawl
+2243,LowerBody,curtsy lunge
+2245,LowerBody,high knee rotation
+2246,LowerBody,side-to-side lunge
+2248,Cardio,tuck jump with knee slap
+2249,LowerBody,lateral bounding hop
+2250,LowerBody,double lunge
+2251,LowerBody,robertson sprinter step-up
+2252,LowerBody,front kick-through
+2253,LowerBody,lunge high-knee clap
+2254,Cardio,plyo split squat
+2256,Cardio,reverse burpee to regular burpee
+2257,Cardio,reverse burpee tuck jump
+2258,LowerBody,sprawlee
+2259,LowerBody,squat hold
+2262,Cardio,sprinter burpee
+2263,Cardio,shuttle run training
+2264,LowerBody,medicine ball ninja
+2265,LowerBody,air ball plus medicine ball jumping sprawl
+2266,LowerBody,medicine ball cowboy squat
+2267,LowerBody,medicine ball jumping jill
+2268,LowerBody,alternate leg diagonal bound
+2269,Cardio,dumbbell lateral hop to sprint
+2270,LowerBody,sissy squat
+2271,LowerBody,wall ball toss
+2272,LowerBody,bosu ball squat
+2273,LowerBody,exercise ball bulgarian split squat
+2274,UpperBody-Shoulders,internal rotation with band
+2275,UpperBody-Shoulders,band pull apart
+2276,UpperBody-Shoulders,back flyes - with bands
+2277,UpperBody-Shoulders,lateral raise - with bands
+2278,UpperBody-Shoulders,shoulder press - with bands
+2279,UpperBody-Shoulders,external rotation with band
+2280,UpperBody-Shoulders,band pull-apart
+2281,UpperBody-Shoulders,lateral raise
+2282,UpperBody-Shoulders,rusin banded over-and-back
+2283,UpperBody-Shoulders,rusin banded face pull
+2284,UpperBody-Shoulders,up band pull-apart
+2285,UpperBody-Shoulders,jordan shallow band-resisted thread the needle
+2286,UpperBody-Shoulders,shoulders seated banded barbell shoulder press
+2287,UpperBody-Shoulders,band shoulder press
+2288,UpperBody-Shoulders,band lateral raise
+2289,UpperBody-Shoulders,band upright row
+2290,UpperBody-Shoulders,staggered-stance band shoulder press
+2291,UpperBody-Shoulders,single-arm banded landmine press
+2292,UpperBody-Shoulders,band front raise rear fly row combo
+2293,UpperBody-Shoulders,jordan shallow foam roller thoracic extension
+2294,UpperBody-Shoulders,jordan shallow thread the needle (with foam roller)
+2295,UpperBody-Shoulders,clean and press
+2296,UpperBody-Shoulders,military press
+2297,UpperBody-Shoulders,seated barbell shoulder press
+2298,UpperBody-Shoulders,snatch-grip behind-the-neck overhead press
+2299,UpperBody-Shoulders,standing bradford press
+2300,UpperBody-Shoulders,barbell shoulder press
+2301,UpperBody-Shoulders,barbell rear delt bent-over row
+2302,UpperBody-Shoulders,barbell upright row
+2303,UpperBody-Shoulders,bradford/rocky presses
+2304,UpperBody-Shoulders,lying rear delt fly
+2305,UpperBody-Shoulders,machine shoulder (military) press
+2306,UpperBody-Shoulders,standing barbell press behind neck
+2307,UpperBody-Shoulders,barbell front raise
+2308,UpperBody-Shoulders,overhead bar front raise
+2309,UpperBody-Shoulders,incline barbell shoulder protraction
+2310,UpperBody-Shoulders,smith incline shoulder raise
+2311,UpperBody-Shoulders,seated ez-bar shrug
+2312,UpperBody-Shoulders,paul carter barbell seated military press
+2313,UpperBody-Shoulders,barbell military press
+2314,UpperBody-Shoulders,incline front barbell raise - gethin variation
+2315,UpperBody-Shoulders,barbell front raise - gethin variation
+2316,UpperBody-Shoulders,single-arm barbell lateral raise
+2317,UpperBody-Shoulders,am upright row
+2318,UpperBody-Shoulders,am barbell shoulder press
+2319,UpperBody-Shoulders,standing barbell shoulder press
+2320,UpperBody-Shoulders,barbell thruster
+2321,UpperBody-Shoulders,single-arm incline cable cross-over
+2322,UpperBody-Shoulders,barbell bear complex
+2323,UpperBody-Shoulders,shoulders barbell shrug
+2324,UpperBody-Shoulders,shoulders incline face-up straight-bar front raise
+2325,UpperBody-Shoulders,shoulders seated dumbbell shoulder press
+2326,UpperBody-Shoulders,shoulders standing behind-the-head shoulder press
+2327,UpperBody-Shoulders,shoulders standing barbell press
+2328,UpperBody-Shoulders,wide overhead press
+2329,UpperBody-Shoulders,single-arm kettlebell push-press
+2330,UpperBody-Shoulders,two-arm kettlebell military press
+2331,UpperBody-Shoulders,alternating kettlebell press
+2332,UpperBody-Shoulders,single-arm kettlebell snatch
+2333,UpperBody-Shoulders,single-arm kettlebell clean and jerk
+2334,UpperBody-Shoulders,kettlebell pirate ship
+2335,UpperBody-Shoulders,two-arm kettlebell clean
+2336,UpperBody-Shoulders,double kettlebell push press
+2337,UpperBody-Shoulders,kettlebell seated press
+2338,UpperBody-Shoulders,double kettlebell jerk
+2339,UpperBody-Shoulders,kettlebell arnold press
+2340,UpperBody-Shoulders,double-kettlebell windmill
+2341,UpperBody-Shoulders,one-arm kettlebell split snatch
+2342,UpperBody-Shoulders,one-arm kettlebell para press
+2343,UpperBody-Shoulders,one-arm kettlebell split jerk
+2344,UpperBody-Shoulders,one-arm kettlebell military press to the side
+2345,UpperBody-Shoulders,one-arm kettlebell jerk
+2346,UpperBody-Shoulders,double kettlebell snatch
+2347,UpperBody-Shoulders,two-arm kettlebell jerk
+2348,UpperBody-Shoulders,kettlebell power clean
+2349,UpperBody-Shoulders,kettlebell upright row
+2350,UpperBody-Shoulders,kettlebell upright row and press
+2351,UpperBody-Shoulders,single-arm kettlebell thruster
+2352,UpperBody-Shoulders,double-kettlebell shoulder press
+2353,UpperBody-Shoulders,double-kettlebell push-press
+2355,UpperBody-Shoulders,kettlebell z-press
+2356,UpperBody-Shoulders,half-kneeling kettlebell halo
+2357,UpperBody-Shoulders,towel kettlebell farmer's walk
+2358,UpperBody-Shoulders,double-kettlebell alternating press
+2359,UpperBody-Shoulders,double-kettlebell thruster
+2360,UpperBody-Shoulders,half-kneeling kettlebell clean
+2361,UpperBody-Shoulders,kettlebell clean and press
+2362,UpperBody-Shoulders,kettlebell high pull to overhead press
+2363,UpperBody-Shoulders,kettlebell swing clean and press
+2364,UpperBody-Shoulders,single-arm kettlebell press
+2365,UpperBody-Shoulders,ascending-rep high-pull-press complex
+2366,UpperBody-Shoulders,dumbbell front raise to lateral raise
+2367,UpperBody-Shoulders,single-arm palm-in dumbbell shoulder press
+2368,UpperBody-Shoulders,standing palms-in shoulder press
+2369,UpperBody-Shoulders,seated dumbbell press
+2370,UpperBody-Shoulders,standing dumbbell shoulder press
+2371,UpperBody-Shoulders,single-arm lateral raise
+2372,UpperBody-Shoulders,power partials
+2373,UpperBody-Shoulders,incline dumbbell reverse fly
+2374,UpperBody-Shoulders,overhead dumbbell front raise
+2375,UpperBody-Shoulders,seated dumbbell shoulder press
+2376,UpperBody-Shoulders,alternating standing shoulder press
+2377,UpperBody-Shoulders,single-arm incline rear delt raise
+2378,UpperBody-Shoulders,alternating dumbbell front raise
+2379,UpperBody-Shoulders,alternating deltoid raise
+2380,UpperBody-Shoulders,single-dumbbell front raise
+2381,UpperBody-Shoulders,arnold press
+2382,UpperBody-Shoulders,single-arm standing shoulder press
+2383,UpperBody-Shoulders,dumbbell front raise
+2384,UpperBody-Shoulders,bent-over dumbbell rear delt row
+2385,UpperBody-Shoulders,incline dumbbell front raise
+2386,UpperBody-Shoulders,side lateral raise
+2387,UpperBody-Shoulders,dumbbell external shoulder rotation
+2388,UpperBody-Shoulders,single-arm incline lateral raise
+2389,UpperBody-Shoulders,dumbbell raise
+2390,UpperBody-Shoulders,seated side lateral raise
+2391,UpperBody-Shoulders,dumbbell lying rear lateral raise
+2392,UpperBody-Shoulders,head-on-bench dumbbell rear delt raise
+2393,UpperBody-Shoulders,cuban press
+2394,UpperBody-Shoulders,reverse flyes with external rotation
+2395,UpperBody-Shoulders,single-arm side lying rear fly
+2396,UpperBody-Shoulders,single-arm dumbbell upright row
+2397,UpperBody-Shoulders,dumbbell scaption
+2398,UpperBody-Shoulders,see-saw press (alternating side press)
+2399,UpperBody-Shoulders,dumbbell incline shoulder raise
+2400,UpperBody-Shoulders,single-arm half-kneeling shoulder press
+2401,UpperBody-Shoulders,dumbbell clean and jerk
+2402,UpperBody-Shoulders,dumbbell shoulder press with body rotation
+2403,UpperBody-Shoulders,dumbbell fix dumbbell military press
+2404,UpperBody-Shoulders,dumbbell fix standing dumbbell arnold press
+2405,UpperBody-Shoulders,dumbbell fix dumbbell single-arm snatch
+2406,UpperBody-Shoulders,paul carter rear-delt fly
+2407,UpperBody-Shoulders,dumbbell shoulder press
+2408,UpperBody-Shoulders,single-arm dumbbell press
+2409,UpperBody-Shoulders,dumbbell tempo l-raise
+2410,UpperBody-Shoulders,dumbbell seesaw shoulder press
+2412,UpperBody-Shoulders,dumbbell arnold press
+2413,UpperBody-Shoulders,dumbbell military press to dumbbell high pull to v-up
+2414,UpperBody-Shoulders,dumbbell thruster
+2415,UpperBody-Shoulders,dumbbell hang snatch
+2416,UpperBody-Shoulders,surfer sprawl
+2417,UpperBody-Shoulders,dumbbell clean and press
+2418,UpperBody-Shoulders,standing one-arm shoulder press - gethin variation
+2419,UpperBody-Shoulders,incline front dumbbell raise - gethin variation
+2420,UpperBody-Shoulders,dumbbell lateral raise
+2421,UpperBody-Shoulders,incline rear-delt fly - gethin variation
+2422,UpperBody-Shoulders,incline bench rear dumbbell fly - gethin variation
+2423,UpperBody-Shoulders,dumbbell front raise and press
+2424,UpperBody-Shoulders,rotator cuff warm-up
+2425,UpperBody-Shoulders,seated lateral raise - gethin variation
+2426,UpperBody-Shoulders,single-arm dumbbell arc row
+2427,UpperBody-Shoulders,incline rear delt raises - gethin variation
+2428,UpperBody-Shoulders,incline dumbbell y raise
+2429,UpperBody-Shoulders,bent-over rear-delt fly
+2431,UpperBody-Shoulders,single-leg overhead dumbbell press
+2432,UpperBody-Shoulders,6 way shoulder raise
+2433,UpperBody-Shoulders,seated dumbbell lateral raise
+2434,UpperBody-Shoulders,am dumbbell shoulder press
+2435,UpperBody-Shoulders,am dumbbell side raise
+2436,UpperBody-Shoulders,am front raise
+2437,UpperBody-Shoulders,up dumbbell lateral raise
+2438,UpperBody-Shoulders,up seated dumbbell overhead press
+2439,UpperBody-Shoulders,aa incline bench dumbbell reverse fly
+2440,UpperBody-Shoulders,cm forward shoulder press
+2441,UpperBody-Shoulders,dumbbell halo
+2442,UpperBody-Shoulders,standing dumbbell scap raise
+2443,UpperBody-Shoulders,overhead press
+2444,UpperBody-Shoulders,slow weighted half jack to overhead press
+2445,UpperBody-Shoulders,slow arnold press
+2446,UpperBody-Shoulders,boat arnold press with feet push-out
+2447,UpperBody-Shoulders,dumbbell hip drive to overhead press
+2448,UpperBody-Shoulders,squat thrust to alternating renegade triceps press
+2449,UpperBody-Shoulders,cheer press
+2450,UpperBody-Shoulders,left arm press with right arm hold
+2451,UpperBody-Shoulders,right arm press with left arm hold
+2452,UpperBody-Shoulders,left front raise with right hold
+2453,UpperBody-Shoulders,right front raise with left hold
+2454,UpperBody-Shoulders,alternating front raise to side raise
+2455,UpperBody-Shoulders,heavy right arm overhead press
+2456,UpperBody-Shoulders,heavy left arm overhead press
+2457,UpperBody-Shoulders,right arm heavy overhead press
+2458,UpperBody-Shoulders,right diagonal lunge to overhead press
+2459,UpperBody-Shoulders,left arm heavy overhead press
+2460,UpperBody-Shoulders,weighted palms-in overhead press
+2461,UpperBody-Shoulders,dumbbell racked carry
+2462,UpperBody-Shoulders,dumbbell clean and push-press
+2463,UpperBody-Shoulders,dumbbell farmer's carry
+2464,UpperBody-Shoulders,single-arm dumbbell racked carry
+2465,UpperBody-Shoulders,jordan shallow dumbbell pull-over
+2466,UpperBody-Shoulders,dumbbell lateral raise
+2467,UpperBody-Shoulders,dumbbell shadow boxing
+2469,UpperBody-Shoulders,dumbbell shrug
+2470,UpperBody-Shoulders,shoulders alternating dumbbell front raise
+2471,UpperBody-Shoulders,shoulders bent-over dumbbell reverse fly
+2472,UpperBody-Shoulders,shoulders dumbbell front raise
+2473,UpperBody-Shoulders,shoulders dumbbell lateral raise
+2474,UpperBody-Shoulders,shoulders dumbbell shrug
+2475,UpperBody-Shoulders,shoulders incline face-down dumbbell reverse fly
+2476,UpperBody-Shoulders,shoulders seated dumbbell front raise
+2477,UpperBody-Shoulders,shoulders seated dumbbell side raise
+2478,UpperBody-Shoulders,shoulders neutral-grip arnold press
+2479,UpperBody-Shoulders,shoulders standing dumbbell upright row
+2480,UpperBody-Shoulders,3-way shoulder raise
+2481,UpperBody-Shoulders,dumbbell overhead press
+2482,UpperBody-Shoulders,single-leg arnold press
+2483,UpperBody-Shoulders,rg forward-leaning dumbbell upright row
+2484,UpperBody-Shoulders,rg alternating seated dumbbell lateral raise
+2485,UpperBody-Shoulders,rg seated dumbbell shoulder press
+2486,UpperBody-Shoulders,dumbbell clean and jerk
+2487,UpperBody-Shoulders,dumbbell cross-body front raise
+2488,UpperBody-Shoulders,dumbbell front raise
+2490,UpperBody-Shoulders,lateral raise hold
+2491,UpperBody-Shoulders,seesaw dumbbell military press
+2492,UpperBody-Shoulders,single-dumbbell halo
+2493,UpperBody-Shoulders,single-dumbbell overhead press
+2494,UpperBody-Shoulders,car driver
+2495,UpperBody-Shoulders,front plate raise
+2496,UpperBody-Shoulders,battle ropes
+2497,UpperBody-Shoulders,seated rear delt fly
+2498,UpperBody-Shoulders,landmine linear jammer
+2499,UpperBody-Shoulders,sled reverse flye
+2500,UpperBody-Shoulders,plate shoulder circle big to small
+2501,UpperBody-Shoulders,sled overhead backward walk
+2502,UpperBody-Shoulders,standing suspended rear delt fly
+2503,UpperBody-Shoulders,waiter's carry
+2504,UpperBody-Shoulders,towel dumbbell front raise
+2505,UpperBody-Shoulders,upright row - gethin variation
+2506,UpperBody-Shoulders,squat press shoulder press - gethin variation
+2507,UpperBody-Shoulders,plate lateral raise
+2508,UpperBody-Shoulders,standing military press - gethin variation
+2509,UpperBody-Shoulders,bent-over plate rear delt raise
+2510,UpperBody-Shoulders,single-arm landmine press
+2511,UpperBody-Shoulders,plate front raise
+2512,UpperBody-Shoulders,slow overhead press
+2513,UpperBody-Shoulders,shoulders plate front raise
+2514,UpperBody-Shoulders,single-arm landmine push-press
+2515,UpperBody-Shoulders,single-arm cable front raise
+2516,UpperBody-Shoulders,cable internal rotation
+2517,UpperBody-Shoulders,seated face pull
+2518,UpperBody-Shoulders,single-arm bent-over cable rear delt fly
+2519,UpperBody-Shoulders,seated cable shoulder press
+2520,UpperBody-Shoulders,standing face pull
+2521,UpperBody-Shoulders,standing cable rear delt row
+2522,UpperBody-Shoulders,standing low-pulley deltoid raise
+2523,UpperBody-Shoulders,standing crossed-cable rear delt fly
+2524,UpperBody-Shoulders,cable shoulder press
+2525,UpperBody-Shoulders,alternating cable shoulder press
+2526,UpperBody-Shoulders,cable seated lateral raise
+2527,UpperBody-Shoulders,single-arm lying cable front raise
+2528,UpperBody-Shoulders,lying cable front raise
+2529,UpperBody-Shoulders,cable rear delt fly - gethin variation
+2530,UpperBody-Shoulders,one-arm cable side raise - gethin variation
+2531,UpperBody-Shoulders,rope face pull - gethin variation
+2532,UpperBody-Shoulders,lying cable lateral raise
+2533,UpperBody-Shoulders,cable seated row
+2534,UpperBody-Shoulders,single-arm cable lateral raise
+2535,UpperBody-Shoulders,up cable face pull
+2536,UpperBody-Shoulders,aa cable leaning side raise
+2537,UpperBody-Shoulders,shoulders bent-over low cable reverse fly
+2538,UpperBody-Shoulders,shoulders cable rope face pull
+2539,UpperBody-Shoulders,shoulders cable straight-bar front raise
+2540,UpperBody-Shoulders,shoulders cable straight-bar upright row
+2541,UpperBody-Shoulders,shoulders high cable reverse fly
+2542,UpperBody-Shoulders,shoulders single-arm bent-over cable reverse fly
+2543,UpperBody-Shoulders,shoulders single-arm cable front raise
+2544,UpperBody-Shoulders,shoulders single-arm leaning cable lateral raise
+2545,UpperBody-Shoulders,rg 3-way single-arm rear delt cable fly
+2546,UpperBody-Shoulders,rg single-arm cross-body cable front raise
+2547,UpperBody-Shoulders,smith machine shoulder press
+2548,UpperBody-Shoulders,machine shoulder press
+2549,UpperBody-Shoulders,reverse machine flyes
+2550,UpperBody-Shoulders,single-arm smith machine upright row
+2551,UpperBody-Shoulders,machine lateral raise
+2552,UpperBody-Shoulders,smith machine behind-the-neck press
+2553,UpperBody-Shoulders,smith machine behind-the-neck press - gethin variation
+2554,UpperBody-Shoulders,shoulders leg press shoulder press
+2555,UpperBody-Shoulders,shoulders machine shoulder press
+2556,UpperBody-Shoulders,shoulders pec-deck reverse fly
+2557,UpperBody-Shoulders,shoulders smith machine behind-the-head press
+2558,UpperBody-Shoulders,shoulders smith machine shoulder press
+2559,UpperBody-Shoulders,handstand push-up
+2560,UpperBody-Shoulders,hand stand push-up
+2561,UpperBody-Shoulders,wall walk
+2562,UpperBody-Shoulders,return push from stance
+2563,UpperBody-Shoulders,wall shoulder tap
+2564,UpperBody-Shoulders,bear crawl shoulder tap
+2565,Cardio,shadow boxing
+2566,Cardio,bear crawl fire feet
+2567,UpperBody-Shoulders,wall sprawl
+2568,UpperBody-Shoulders,shoulder l
+2569,UpperBody-Shoulders,inverted row
+2570,UpperBody-Shoulders,arm circle
+2571,UpperBody-Shoulders,hand-on-wall stretch
+2572,Cardio,jumping arm circle
+2573,UpperBody-Shoulders,kipping clapping pull-up
+2574,UpperBody-Shoulders,kneeling overhead press to donkey kick
+2575,UpperBody-Shoulders,floor angel
+2576,UpperBody-Shoulders,shoulder extension stretch
+2577,UpperBody-Shoulders,backward medicine ball throw
+2578,UpperBody-Shoulders,medicine ball scoop throw
+2579,UpperBody-Shoulders,standing two-arm overhead throw
+2580,UpperBody-Shoulders,incline face-down bar front raise
+2581,UpperBody-Shoulders,incline anti-gravity shoulder press
+2582,UpperBody-Shoulders,shoulders ez-bar front raise
+2583,UpperBody-Shoulders,kneeling arm drill
+2584,UpperBody-Shoulders,bent-over shoulder rotation
+2585,UpperBody-Triceps,band overhead triceps press
+2586,UpperBody-Triceps,band overhead triceps extension
+2587,UpperBody-Triceps,band straight-arm pull-down
+2588,UpperBody-Triceps,band skullcrusher
+2589,UpperBody-Triceps,single-arm band kick-back
+2590,UpperBody-Triceps,incline ez-bar skullcrusher
+2591,UpperBody-Triceps,decline close-grip bench to skull crusher
+2592,UpperBody-Triceps,bench press - powerlifting
+2593,UpperBody-Triceps,behind-the-head skullcrusher
+2594,UpperBody-Triceps,standing barbell overhead triceps extension
+2595,UpperBody-Triceps,reverse-grip bench press
+2596,UpperBody-Triceps,bench press with chains
+2597,UpperBody-Triceps,floor press
+2598,UpperBody-Triceps,one arm floor press
+2599,UpperBody-Triceps,pin presses
+2600,UpperBody-Triceps,jm press with bands
+2601,UpperBody-Triceps,jm press
+2602,UpperBody-Triceps,floor press with chains
+2603,UpperBody-Triceps,reverse band bench press
+2604,UpperBody-Triceps,decline barbell triceps extension - gethin variation
+2605,UpperBody-Triceps,am skullcrusher
+2606,UpperBody-Triceps,arms close-grip bench press
+2607,UpperBody-Triceps,arms barbell skullcrusher
+2608,UpperBody-Triceps,sprawl over kettlebell
+2609,UpperBody-Triceps,dumbbell floor press
+2610,UpperBody-Triceps,seated triceps press
+2611,UpperBody-Triceps,tricep dumbbell kickback
+2612,UpperBody-Triceps,standing dumbbell triceps extension
+2613,UpperBody-Triceps,double-arm triceps kick-back
+2614,UpperBody-Triceps,single-arm dumbbell triceps extension
+2615,UpperBody-Triceps,decline dumbbell triceps extension
+2616,UpperBody-Triceps,dumbbell skullcrusher
+2617,UpperBody-Triceps,one arm pronated dumbbell triceps extension
+2618,UpperBody-Triceps,one arm supinated dumbbell triceps extension
+2619,UpperBody-Triceps,seated bent-over two-arm dumbbell triceps extension
+2620,UpperBody-Triceps,tate press
+2621,UpperBody-Triceps,standing bent-over one-arm dumbbell triceps extension
+2622,UpperBody-Triceps,seated bent-over one-arm dumbbell triceps extension
+2623,UpperBody-Triceps,dumbbell tricep extension -pronated grip
+2624,UpperBody-Triceps,v-sit with overhead triceps extension
+2625,UpperBody-Triceps,pjr pull-over
+2626,UpperBody-Triceps,paul carter dumbbell kick-back
+2627,UpperBody-Triceps,single-arm dumbbell skullcrusher
+2628,UpperBody-Triceps,dumbbells-together incline bench press
+2629,UpperBody-Triceps,incline dumbbell overhead triceps extension
+2630,UpperBody-Triceps,dumbbell crush press
+2631,UpperBody-Triceps,hovering renegade triceps press
+2632,UpperBody-Triceps,heavy triceps press to overhead press
+2633,UpperBody-Triceps,close-grip dumbbell press
+2634,UpperBody-Triceps,dumbbell row to triceps kick-back
+2635,UpperBody-Triceps,rolling triceps press
+2636,UpperBody-Triceps,skullcrusher to ab crunch
+2637,UpperBody-Triceps,single-dumbbell triceps extension
+2638,UpperBody-Triceps,arms overhead dumbbell triceps extension
+2639,UpperBody-Triceps,arms dumbbell skullcrusher
+2640,UpperBody-Triceps,arms dumbbell kick-back
+2641,UpperBody-Triceps,arms  dumbbell kick-back
+2642,UpperBody-Triceps,dumbbell saw triceps skullcrusher
+2643,UpperBody-Triceps,chain handle extension
+2644,UpperBody-Triceps,sled overhead triceps extension
+2645,UpperBody-Triceps,body triceps press using flat bench
+2646,UpperBody-Triceps,suspended triceps press
+2647,UpperBody-Triceps,seated triceps push-down
+2648,UpperBody-Triceps,machine triceps extension-
+2649,UpperBody-Triceps,overhead weighted triceps press
+2650,UpperBody-Triceps,arms weighted triceps dip
+2651,UpperBody-Triceps,cable v-bar push-down
+2652,UpperBody-Triceps,reverse grip triceps pushdown
+2653,UpperBody-Triceps,kneeling cable triceps extension
+2654,UpperBody-Triceps,single-arm cable triceps extension
+2655,UpperBody-Triceps,dip machine
+2656,UpperBody-Triceps,triceps pushdown
+2657,UpperBody-Triceps,low cable overhead triceps extension
+2658,UpperBody-Triceps,lying cable triceps extension
+2659,UpperBody-Triceps,low cable triceps extension
+2660,UpperBody-Triceps,cable overhead triceps extension
+2661,UpperBody-Triceps,single-arm low cable triceps extension
+2662,UpperBody-Triceps,incline cable straight-bar triceps extension
+2663,UpperBody-Triceps,paul carter overhead rope triceps extension
+2664,UpperBody-Triceps,rope cable push-down
+2665,UpperBody-Triceps,single-arm cable triceps kick-back
+2666,UpperBody-Triceps,incline cable rope triceps extension
+2667,UpperBody-Triceps,reverse-grip cable straight-bar push-down
+2668,UpperBody-Triceps,kneeling cable triceps extension - gethin variation
+2669,UpperBody-Triceps,cable overhead triceps extension - gethin variation
+2670,UpperBody-Triceps,reverse-grip cable triceps pushdown - gethin variation
+2671,UpperBody-Triceps,cable triceps extension - gethin variation
+2672,UpperBody-Triceps,single-arm incline triceps extension
+2673,UpperBody-Triceps,triceps overhead extension with rope - gethin variation
+2674,UpperBody-Triceps,cable rope push-down
+2675,UpperBody-Triceps,cable straight-bar push-down
+2676,UpperBody-Triceps,straight-arm bar pull-down
+2677,UpperBody-Triceps,am rope triceps pushdown
+2678,UpperBody-Triceps,am bar triceps push-down
+2679,UpperBody-Triceps,rope overhead triceps extension
+2680,UpperBody-Triceps,up rope push-down
+2681,UpperBody-Triceps,up triceps extension straight-bar push-down
+2682,UpperBody-Triceps,ld cable one-arm upright row
+2683,UpperBody-Triceps,arms underhand cable straight-bar push-down
+2684,UpperBody-Triceps,arms single-arm reverse-grip cable push-down
+2685,UpperBody-Triceps,arms cable v-bar push-down
+2686,UpperBody-Triceps,arms cable straight-bar push-down
+2687,UpperBody-Triceps,arms cable rope push-down
+2688,UpperBody-Triceps,arms cable rope overhead triceps extension
+2689,UpperBody-Triceps,underhand straight-bar push-down
+2690,UpperBody-Triceps,overhand straight-bar push-down
+2691,UpperBody-Triceps,cable rope push-down
+2692,UpperBody-Triceps,triceps pressdown
+2693,UpperBody-Triceps,machine triceps extension
+2694,UpperBody-Triceps,smith machine end-grip shoulder press
+2695,UpperBody-Triceps,assist machine triceps push-down
+2696,UpperBody-Triceps,smith machine close-grip bench press-
+2697,UpperBody-Triceps,machine triceps extension - gethin variation
+2698,UpperBody-Triceps,overhead machine triceps extension - gethin variation
+2699,UpperBody-Triceps,arms machine triceps dip
+2700,UpperBody-Triceps,triceps dip
+2701,UpperBody-Triceps,weighted bench dip
+2702,UpperBody-Triceps,push-ups - close triceps position
+2703,UpperBody-Triceps,parallel bar dip
+2704,UpperBody-Triceps,ring dip
+2705,UpperBody-Triceps,feet-elevated bench dip
+2706,UpperBody-Triceps,bodyweight triceps press
+2707,UpperBody-Triceps,standing towel triceps extension
+2708,UpperBody-Triceps,russian bar dip
+2709,UpperBody-Triceps,straight-arm plank with kick-back
+2710,UpperBody-Triceps,dip
+2711,UpperBody-Triceps,bench dips - gethin variation
+2712,UpperBody-Triceps,banded dip
+2713,UpperBody-Triceps,bench dip - gethin variation
+2714,UpperBody-Triceps,chair dip
+2715,UpperBody-Triceps,bench dip
+2716,UpperBody-Triceps,step triceps dip
+2717,UpperBody-Triceps,chair triceps dip
+2718,UpperBody-Triceps,bodyweight triceps rope press
+2719,UpperBody-Triceps,heavy triceps overhead press
+2720,UpperBody-Triceps,couch triceps dip
+2721,UpperBody-Triceps,triceps push-up
+2722,UpperBody-Triceps,arms triceps dip
+2723,UpperBody-Triceps,arms close-grip push-up
+2724,UpperBody-Triceps,arms  close-grip push-up
+2725,UpperBody-Triceps,supine chest throw
+2726,UpperBody-Triceps,decline ez-bar skullcrusher
+2727,UpperBody-Triceps,ez-bar skullcrusher
+2728,UpperBody-Triceps,ez-bar skullcrusher-
+2729,UpperBody-Triceps,lying close-grip barbell triceps press to chin
+2730,UpperBody-Triceps,ez-bar skullcrusher - gethin variation
+2731,UpperBody-Triceps,skullcrusher
+2732,UpperBody-Triceps,arms ez-bar skullcrusher
